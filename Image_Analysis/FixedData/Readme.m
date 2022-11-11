@@ -1,6 +1,6 @@
 %%  README 
 
-% 1.- Remove ImageProcessing from your path and Add path to ImageProcessing_v2 folder to matlab
+% 1.- Add path to this folder to matlab
 
 % 2.- Copy AnalysisParamScript_IP and Master_1_ImageProcessing to your
 % experiment's folder
