@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 200" style="enable-background:new 0 0 2000 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.9821;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_00000167368262866206422580000011178802806774327970_);fill:#FFFFFF;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#0000FF;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#0000FF;}
+	.st6{fill:none;stroke:#262626;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<rect x="0" y="200" class="st0" width="2000" height="719.1"/>
+<text transform="matrix(1 0 0 1 873.8814 307.8455)" style="font-family:'MyriadPro-Bold'; font-size:40px;">Constant WNT</text>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="329.2" width="2000" height="200"/>
+			</defs>
+			<clipPath id="SVGID_00000008135089871306291220000013887423566026171063_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<rect y="329.2" style="clip-path:url(#SVGID_00000008135089871306291220000013887423566026171063_);fill:#FFFFFF;" width="2000" height="200"/>
+		</g>
+	</g>
+	<g>
+		<rect y="329.2" class="st2" width="2000" height="200"/>
+		<path class="st2" d="M100,462.2h272v-93.5H100V462.2z"/>
+	</g>
+	<g>
+		<line class="st3" x1="100" y1="462.2" x2="372" y2="462.2"/>
+		<line class="st3" x1="100" y1="368.7" x2="372" y2="368.7"/>
+		<line class="st3" x1="100" y1="462.2" x2="100" y2="459.5"/>
+		<line class="st3" x1="175.6" y1="462.2" x2="175.6" y2="459.5"/>
+		<line class="st3" x1="251.1" y1="462.2" x2="251.1" y2="459.5"/>
+		<line class="st3" x1="326.7" y1="462.2" x2="326.7" y2="459.5"/>
+		<line class="st3" x1="100" y1="368.7" x2="100" y2="371.4"/>
+		<line class="st3" x1="175.6" y1="368.7" x2="175.6" y2="371.4"/>
+		<line class="st3" x1="251.1" y1="368.7" x2="251.1" y2="371.4"/>
+		<line class="st3" x1="326.7" y1="368.7" x2="326.7" y2="371.4"/>
+	</g>
+	<g transform="translate(100,140)">
+		<text transform="matrix(1 0 0 1 -7 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(175.5556,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">20</text>
+	</g>
+	<g transform="translate(251.1111,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">40</text>
+	</g>
+	<g transform="translate(326.6667,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">60</text>
+	</g>
+	<g transform="translate(236.0001,166.5)">
+		<text transform="matrix(1 0 0 1 -5 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">t</text>
+	</g>
+	<g>
+		<line class="st3" x1="100" y1="462.2" x2="100" y2="368.7"/>
+		<line class="st3" x1="372" y1="462.2" x2="372" y2="368.7"/>
+		<line class="st3" x1="100" y1="462.2" x2="102.7" y2="462.2"/>
+		<line class="st3" x1="100" y1="431" x2="102.7" y2="431"/>
+		<line class="st3" x1="100" y1="399.9" x2="102.7" y2="399.9"/>
+		<line class="st3" x1="100" y1="368.7" x2="102.7" y2="368.7"/>
+		<line class="st3" x1="372" y1="462.2" x2="369.3" y2="462.2"/>
+		<line class="st3" x1="372" y1="431" x2="369.3" y2="431"/>
+		<line class="st3" x1="372" y1="399.9" x2="369.3" y2="399.9"/>
+		<line class="st3" x1="372" y1="368.7" x2="369.3" y2="368.7"/>
+	</g>
+	<g transform="translate(93,133)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(93,101.8333)">
+		<text transform="matrix(1 0 0 1 -35 335.2157)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0.5</text>
+	</g>
+	<g transform="translate(93,70.6667)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1</text>
+	</g>
+	<g transform="translate(93,39.5)">
+		<text transform="matrix(1 0 0 1 -35 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1.5</text>
+	</g>
+	<g transform="translate(236.0002,36.375)">
+		<text transform="matrix(1 0 0 1 -41.5 322.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">SMAD4</text>
+	</g>
+	<g>
+		<path class="st4" d="M100,462.2h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8
+			h3.8l0,0h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8
+			h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8"/>
+	</g>
+	<g>
+		<path class="st2" d="M442,462.2h271.5v-93.5H442V462.2z"/>
+	</g>
+	<g>
+		<line class="st3" x1="442" y1="462.2" x2="713.5" y2="462.2"/>
+		<line class="st3" x1="442" y1="368.7" x2="713.5" y2="368.7"/>
+		<line class="st3" x1="442" y1="462.2" x2="442" y2="459.5"/>
+		<line class="st3" x1="517.4" y1="462.2" x2="517.4" y2="459.5"/>
+		<line class="st3" x1="592.8" y1="462.2" x2="592.8" y2="459.5"/>
+		<line class="st3" x1="668.2" y1="462.2" x2="668.2" y2="459.5"/>
+		<line class="st3" x1="442" y1="368.7" x2="442" y2="371.4"/>
+		<line class="st3" x1="517.4" y1="368.7" x2="517.4" y2="371.4"/>
+		<line class="st3" x1="592.8" y1="368.7" x2="592.8" y2="371.4"/>
+		<line class="st3" x1="668.2" y1="368.7" x2="668.2" y2="371.4"/>
+	</g>
+	<g transform="translate(442,140)">
+		<text transform="matrix(1 0 0 1 -7 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(517.4167,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">20</text>
+	</g>
+	<g transform="translate(592.8333,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">40</text>
+	</g>
+	<g transform="translate(668.25,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">60</text>
+	</g>
+	<g transform="translate(577.7501,166.5)">
+		<text transform="matrix(1 0 0 1 -5 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">t</text>
+	</g>
+	<g>
+		<line class="st3" x1="442" y1="462.2" x2="442" y2="368.7"/>
+		<line class="st3" x1="713.5" y1="462.2" x2="713.5" y2="368.7"/>
+		<line class="st3" x1="442" y1="462.2" x2="444.7" y2="462.2"/>
+		<line class="st3" x1="442" y1="431" x2="444.7" y2="431"/>
+		<line class="st3" x1="442" y1="399.9" x2="444.7" y2="399.9"/>
+		<line class="st3" x1="442" y1="368.7" x2="444.7" y2="368.7"/>
+		<line class="st3" x1="713.5" y1="462.2" x2="710.8" y2="462.2"/>
+		<line class="st3" x1="713.5" y1="431" x2="710.8" y2="431"/>
+		<line class="st3" x1="713.5" y1="399.9" x2="710.8" y2="399.9"/>
+		<line class="st3" x1="713.5" y1="368.7" x2="710.8" y2="368.7"/>
+	</g>
+	<g transform="translate(435,133)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(435,101.8333)">
+		<text transform="matrix(1 0 0 1 -35 335.2157)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0.5</text>
+	</g>
+	<g transform="translate(435,70.6667)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1</text>
+	</g>
+	<g transform="translate(435,39.5)">
+		<text transform="matrix(1 0 0 1 -35 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1.5</text>
+	</g>
+	<g transform="translate(577.7505,36.375)">
+		<text transform="matrix(1 0 0 1 -26.5 322.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">bCat</text>
+	</g>
+	<g>
+		<path class="st4" d="M442,462.2l3.8-0.9l3.8-5l3.8-9l3.8-10.3l3.8-9.8l3.8-8.6l3.8-7l3.8-5.2l3.8-3.6l3.8-2.4l3.8-1.6l3.8-1.1
+			l3.8-0.7l3.8-0.5l3.8-0.4l3.8-0.2l3.8-0.3l3.8-0.2l3.8-0.2l3.8-0.1l3.8,0l3.8-0.2l3.8,0l3.8-0.1l0,0l3.8,0l3.8,0l3.8-0.1l3.8-0.1
+			l3.8,0.1l3.8-0.1l3.8,0.1l3.8-0.1l3.8,0l3.8-0.1l3.8,0l3.8,0.1l3.8-0.2l3.8,0.1l3.8-0.1l3.8,0.1l3.8-0.2l3.8,0.1l3.8-0.1l3.8,0.1
+			l3.8-0.1l3.8,0l3.8,0.1l3.8-0.1l3.8,0.1l3.8-0.1l3.8,0.2l3.8-0.2l3.8,0.2l3.8-0.1l3.8,0.1l3.8-0.1l3.8,0l3.8,0l3.8,0l3.8,0.1
+			l3.8-0.1l3.8,0.1l3.8-0.2l3.8,0.2l3.8-0.2l3.8,0.1l3.8-0.1l3.8,0.1l3.8-0.1l3.8,0l3.8,0l3.8-0.1"/>
+	</g>
+	<g>
+		<path class="st2" d="M783.5,462.2h272v-93.5h-272V462.2z"/>
+	</g>
+	<g>
+		<line class="st3" x1="783.5" y1="462.2" x2="1055.5" y2="462.2"/>
+		<line class="st3" x1="783.5" y1="368.7" x2="1055.5" y2="368.7"/>
+		<line class="st3" x1="783.5" y1="462.2" x2="783.5" y2="459.5"/>
+		<line class="st3" x1="859.1" y1="462.2" x2="859.1" y2="459.5"/>
+		<line class="st3" x1="934.6" y1="462.2" x2="934.6" y2="459.5"/>
+		<line class="st3" x1="1010.2" y1="462.2" x2="1010.2" y2="459.5"/>
+		<line class="st3" x1="783.5" y1="368.7" x2="783.5" y2="371.4"/>
+		<line class="st3" x1="859.1" y1="368.7" x2="859.1" y2="371.4"/>
+		<line class="st3" x1="934.6" y1="368.7" x2="934.6" y2="371.4"/>
+		<line class="st3" x1="1010.2" y1="368.7" x2="1010.2" y2="371.4"/>
+	</g>
+	<g transform="translate(783.5,140)">
+		<text transform="matrix(1 0 0 1 -7 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(859.0555,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">20</text>
+	</g>
+	<g transform="translate(934.6111,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">40</text>
+	</g>
+	<g transform="translate(1010.1667,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">60</text>
+	</g>
+	<g transform="translate(919.5001,166.5)">
+		<text transform="matrix(1 0 0 1 -5 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">t</text>
+	</g>
+	<g>
+		<line class="st3" x1="783.5" y1="462.2" x2="783.5" y2="368.7"/>
+		<line class="st3" x1="1055.5" y1="462.2" x2="1055.5" y2="368.7"/>
+		<line class="st3" x1="783.5" y1="462.2" x2="786.2" y2="462.2"/>
+		<line class="st3" x1="783.5" y1="419.7" x2="786.2" y2="419.7"/>
+		<line class="st3" x1="783.5" y1="377.2" x2="786.2" y2="377.2"/>
+		<line class="st3" x1="1055.5" y1="462.2" x2="1052.8" y2="462.2"/>
+		<line class="st3" x1="1055.5" y1="419.7" x2="1052.8" y2="419.7"/>
+		<line class="st3" x1="1055.5" y1="377.2" x2="1052.8" y2="377.2"/>
+	</g>
+	<g transform="translate(776.5,133)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(776.5,90.5)">
+		<text transform="matrix(1 0 0 1 -35 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0.5</text>
+	</g>
+	<g transform="translate(776.5,48)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1</text>
+	</g>
+	<g transform="translate(919.5009,36.375)">
+		<text transform="matrix(1 0 0 1 -30.5 322.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">SOX2</text>
+	</g>
+	<g>
+		<path class="st4" d="M783.5,377.2l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0l3.8,0.1l3.8,0.1l3.8,0.2
+			l3.8,0.2l3.8,0.3l3.8,0.3l3.8,0.3l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l0,0l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4
+			l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.4l3.8,0.5l3.8,0.5l3.8,0.5l3.8,0.5l3.8,0.5l3.8,0.5l3.8,0.5
+			l3.8,0.5l3.8,0.6l3.8,0.6l3.8,0.6l3.8,0.6l3.8,0.7l3.8,0.7l3.8,0.8l3.8,0.8l3.8,0.9l3.8,0.9l3.8,1l3.8,1.1l3.8,1.2l3.8,1.4
+			l3.8,1.5l3.8,1.7l3.8,1.9l3.8,2.1l3.8,2.4l3.8,2.6l3.8,2.9l3.8,3.3l3.8,3.5l3.8,3.7l3.8,3.8l3.8,3.7l3.8,3.5"/>
+	</g>
+	<g transform="translate(1055.5,133)">
+		<circle class="st5" cx="0" cy="329.2" r="3.9"/>
+	</g>
+	<g transform="translate(1055.5,133)">
+		<path class="st5" d="M0,325.6c2,0,3.6,1.6,3.6,3.6l0,0c0,2-1.6,3.6-3.6,3.6s-3.6-1.6-3.6-3.6C-3.6,327.2-2,325.6,0,325.6z
+			 M0,325.1c-2.3,0-4.1,1.8-4.1,4.1s1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1l0,0C4.1,326.9,2.3,325.1,0,325.1z"/>
+	</g>
+	<g>
+		<path class="st2" d="M1125.5,462.2H1397v-93.5h-271.5V462.2z"/>
+	</g>
+	<g>
+		<line class="st3" x1="1125.5" y1="462.2" x2="1397" y2="462.2"/>
+		<line class="st3" x1="1125.5" y1="368.7" x2="1397" y2="368.7"/>
+		<line class="st3" x1="1125.5" y1="462.2" x2="1125.5" y2="459.5"/>
+		<line class="st3" x1="1200.9" y1="462.2" x2="1200.9" y2="459.5"/>
+		<line class="st3" x1="1276.3" y1="462.2" x2="1276.3" y2="459.5"/>
+		<line class="st3" x1="1351.8" y1="462.2" x2="1351.8" y2="459.5"/>
+		<line class="st3" x1="1125.5" y1="368.7" x2="1125.5" y2="371.4"/>
+		<line class="st3" x1="1200.9" y1="368.7" x2="1200.9" y2="371.4"/>
+		<line class="st3" x1="1276.3" y1="368.7" x2="1276.3" y2="371.4"/>
+		<line class="st3" x1="1351.8" y1="368.7" x2="1351.8" y2="371.4"/>
+	</g>
+	<g transform="translate(1125.5,140)">
+		<text transform="matrix(1 0 0 1 -7 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(1200.9166,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">20</text>
+	</g>
+	<g transform="translate(1276.3334,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">40</text>
+	</g>
+	<g transform="translate(1351.75,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">60</text>
+	</g>
+	<g transform="translate(1261.2501,166.5)">
+		<text transform="matrix(1 0 0 1 -5 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">t</text>
+	</g>
+	<g>
+		<line class="st3" x1="1125.5" y1="462.2" x2="1125.5" y2="368.7"/>
+		<line class="st3" x1="1397" y1="462.2" x2="1397" y2="368.7"/>
+		<line class="st3" x1="1125.5" y1="462.2" x2="1128.2" y2="462.2"/>
+		<line class="st3" x1="1125.5" y1="431" x2="1128.2" y2="431"/>
+		<line class="st3" x1="1125.5" y1="399.9" x2="1128.2" y2="399.9"/>
+		<line class="st3" x1="1125.5" y1="368.7" x2="1128.2" y2="368.7"/>
+		<line class="st3" x1="1397" y1="462.2" x2="1394.3" y2="462.2"/>
+		<line class="st3" x1="1397" y1="431" x2="1394.3" y2="431"/>
+		<line class="st3" x1="1397" y1="399.9" x2="1394.3" y2="399.9"/>
+		<line class="st3" x1="1397" y1="368.7" x2="1394.3" y2="368.7"/>
+	</g>
+	<g transform="translate(1118.5,133)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(1118.5,101.8333)">
+		<text transform="matrix(1 0 0 1 -35 335.2157)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0.5</text>
+	</g>
+	<g transform="translate(1118.5,70.6667)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1</text>
+	</g>
+	<g transform="translate(1118.5,39.5)">
+		<text transform="matrix(1 0 0 1 -35 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1.5</text>
+	</g>
+	<g transform="translate(1261.2512,36.375)">
+		<text transform="matrix(1 0 0 1 -23.5 322.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">BRA</text>
+	</g>
+	<g>
+		<path class="st4" d="M1125.5,462.2h3.8h3.8l3.8,0l3.8,0l3.8-0.2l3.8-0.6l3.8-1l3.8-1.2l3.8-1.2l3.8-1.2l3.8-1.1l3.8-1l3.8-0.8
+			l3.8-0.7l3.8-0.6l3.8-0.6l3.8-0.5l3.8-0.4l3.8-0.4l3.8-0.4l3.8-0.3l3.8-0.3l3.8-0.3l3.8-0.3l0,0l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2
+			l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2
+			l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.2l3.8-0.3l3.8-0.3l3.8-0.3l3.8-0.3l3.8-0.3l3.8-0.4l3.8-0.4l3.8-0.4l3.8-0.5l3.8-0.5l3.8-0.6
+			l3.8-0.6l3.8-0.7l3.8-0.8l3.8-1l3.8-1.2l3.8-1.4l3.8-1.7l3.8-2.1l3.8-2.6l3.8-3.4l3.8-4.3l3.8-5.4l3.8-6.8l3.8-8.3"/>
+	</g>
+	<g transform="translate(1397,70.6667)">
+		<circle class="st5" cx="0" cy="329.2" r="3.9"/>
+	</g>
+	<g transform="translate(1397,70.6667)">
+		<path class="st5" d="M0,325.6c2,0,3.6,1.6,3.6,3.6l0,0c0,2-1.6,3.6-3.6,3.6s-3.6-1.6-3.6-3.6C-3.6,327.2-2,325.6,0,325.6z
+			 M0,325.1c-2.3,0-4.1,1.8-4.1,4.1s1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1l0,0C4.1,326.9,2.3,325.1,0,325.1z"/>
+	</g>
+	<g>
+		<path class="st2" d="M1467,462.2h272v-93.5h-272V462.2z"/>
+	</g>
+	<g>
+		<line class="st3" x1="1467" y1="462.2" x2="1739" y2="462.2"/>
+		<line class="st3" x1="1467" y1="368.7" x2="1739" y2="368.7"/>
+		<line class="st3" x1="1467" y1="462.2" x2="1467" y2="459.5"/>
+		<line class="st3" x1="1542.6" y1="462.2" x2="1542.6" y2="459.5"/>
+		<line class="st3" x1="1618.1" y1="462.2" x2="1618.1" y2="459.5"/>
+		<line class="st3" x1="1693.7" y1="462.2" x2="1693.7" y2="459.5"/>
+		<line class="st3" x1="1467" y1="368.7" x2="1467" y2="371.4"/>
+		<line class="st3" x1="1542.6" y1="368.7" x2="1542.6" y2="371.4"/>
+		<line class="st3" x1="1618.1" y1="368.7" x2="1618.1" y2="371.4"/>
+		<line class="st3" x1="1693.7" y1="368.7" x2="1693.7" y2="371.4"/>
+	</g>
+	<g transform="translate(1467,140)">
+		<text transform="matrix(1 0 0 1 -7 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(1542.5555,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">20</text>
+	</g>
+	<g transform="translate(1618.1111,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">40</text>
+	</g>
+	<g transform="translate(1693.6666,140)">
+		<text transform="matrix(1 0 0 1 -14 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">60</text>
+	</g>
+	<g transform="translate(1603.0001,166.5)">
+		<text transform="matrix(1 0 0 1 -5 348.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">t</text>
+	</g>
+	<g>
+		<line class="st3" x1="1467" y1="462.2" x2="1467" y2="368.7"/>
+		<line class="st3" x1="1739" y1="462.2" x2="1739" y2="368.7"/>
+		<line class="st3" x1="1467" y1="462.2" x2="1469.7" y2="462.2"/>
+		<line class="st3" x1="1467" y1="431" x2="1469.7" y2="431"/>
+		<line class="st3" x1="1467" y1="399.9" x2="1469.7" y2="399.9"/>
+		<line class="st3" x1="1467" y1="368.7" x2="1469.7" y2="368.7"/>
+		<line class="st3" x1="1739" y1="462.2" x2="1736.3" y2="462.2"/>
+		<line class="st3" x1="1739" y1="431" x2="1736.3" y2="431"/>
+		<line class="st3" x1="1739" y1="399.9" x2="1736.3" y2="399.9"/>
+		<line class="st3" x1="1739" y1="368.7" x2="1736.3" y2="368.7"/>
+	</g>
+	<g transform="translate(1460,133)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0</text>
+	</g>
+	<g transform="translate(1460,101.8333)">
+		<text transform="matrix(1 0 0 1 -35 335.2157)" style="font-family:'MyriadPro-Bold'; font-size:25px;">0.5</text>
+	</g>
+	<g transform="translate(1460,70.6667)">
+		<text transform="matrix(1 0 0 1 -14 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1</text>
+	</g>
+	<g transform="translate(1460,39.5)">
+		<text transform="matrix(1 0 0 1 -35 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">1.5</text>
+	</g>
+	<g transform="translate(1603.0016,36.375)">
+		<text transform="matrix(1 0 0 1 -31 322.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">CDX2</text>
+	</g>
+	<g>
+		<path class="st4" d="M1467,462.2h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8
+			h3.8l0,0h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8
+			h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8h3.8"/>
+	</g>
+	<g transform="translate(1739,133)">
+		<circle class="st5" cx="0" cy="329.2" r="3.9"/>
+	</g>
+	<g transform="translate(1739,133)">
+		<path class="st5" d="M0,325.6c2,0,3.6,1.6,3.6,3.6l0,0c0,2-1.6,3.6-3.6,3.6s-3.6-1.6-3.6-3.6C-3.6,327.2-2,325.6,0,325.6z
+			 M0,325.1c-2.3,0-4.1,1.8-4.1,4.1s1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1l0,0C4.1,326.9,2.3,325.1,0,325.1z"/>
+	</g>
+	<g>
+		<path class="st2" d="M1984,398.2v-29.5h-237v29.5H1984z"/>
+	</g>
+	<g transform="translate(1784,54.25)">
+		<text transform="matrix(1 0 0 1 0 335.2156)" style="font-family:'MyriadPro-Bold'; font-size:25px;">@72h, CHIR 15uM</text>
+	</g>
+	<g>
+		<line class="st4" x1="1751" y1="383.5" x2="1781" y2="383.5"/>
+	</g>
+	<g>
+		<path class="st6" d="M1747,398.2v-29.5h237v29.5H1747z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,2372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 1257" style="enable-background:new 0 0 2000 1257;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000072238298659379725830000012719018978714325658_);fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{font-family:'MyriadPro-Bold';}
+	.st4{font-size:25px;}
+	.st5{fill:none;stroke:#0000FF;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:#0000FF;}
+	.st7{fill:none;stroke:#262626;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FF0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:#FF0000;}
+	.st10{fill:none;stroke:#00FF00;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:#00FF00;}
+	.st12{fill:none;stroke:#FF1AB9;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:#FF1AB9;}
+	.st14{fill:none;stroke:#FFD300;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:#FFD300;}
+	.st16{fill:none;stroke:#0084F6;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:#0084F6;}
+	.st18{fill:none;stroke:#008D46;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st19{fill:#008D46;}
+	.st20{fill:none;stroke:#A7613E;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:#A7613E;}
+	.st22{font-size:40px;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" y="40.9" width="2000" height="1257"/>
+			</defs>
+			<clipPath id="SVGID_00000070086630507087204430000000039321041088315539_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<rect y="40.9" style="clip-path:url(#SVGID_00000070086630507087204430000000039321041088315539_);fill:#FFFFFF;" width="2000" height="1257"/>
+		</g>
+	</g>
+	<g>
+		<rect y="40.9" class="st1" width="2000" height="1257"/>
+		<path class="st1" d="M100,221.4h225.5v-86H100V221.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="221.4" x2="325.5" y2="221.4"/>
+		<line class="st2" x1="100" y1="135.4" x2="325.5" y2="135.4"/>
+		<line class="st2" x1="100" y1="221.4" x2="100" y2="219.1"/>
+		<line class="st2" x1="194" y1="221.4" x2="194" y2="219.1"/>
+		<line class="st2" x1="287.9" y1="221.4" x2="287.9" y2="219.1"/>
+		<line class="st2" x1="100" y1="135.4" x2="100" y2="137.6"/>
+		<line class="st2" x1="194" y1="135.4" x2="194" y2="137.6"/>
+		<line class="st2" x1="287.9" y1="135.4" x2="287.9" y2="137.6"/>
+	</g>
+	<g transform="translate(100,187.5)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="221.4" x2="100" y2="135.4"/>
+		<line class="st2" x1="325.5" y1="221.4" x2="325.5" y2="135.4"/>
+		<line class="st2" x1="100" y1="221.4" x2="102.3" y2="221.4"/>
+		<line class="st2" x1="100" y1="192.7" x2="102.3" y2="192.7"/>
+		<line class="st2" x1="100" y1="164.1" x2="102.3" y2="164.1"/>
+		<line class="st2" x1="100" y1="135.4" x2="102.3" y2="135.4"/>
+		<line class="st2" x1="325.5" y1="221.4" x2="323.2" y2="221.4"/>
+		<line class="st2" x1="325.5" y1="192.7" x2="323.2" y2="192.7"/>
+		<line class="st2" x1="325.5" y1="164.1" x2="323.2" y2="164.1"/>
+		<line class="st2" x1="325.5" y1="135.4" x2="323.2" y2="135.4"/>
+	</g>
+	<g transform="translate(93,180.5)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,151.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,123.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,94.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g transform="translate(212.7502,91.375)">
+		<text transform="matrix(1 0 0 1 -41.5 33.888)" class="st3 st4">SMAD4</text>
+	</g>
+	<g>
+		<path class="st5" d="M100,221.4l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l0,0l4.7,21.6l4.7,13.8l4.7,8.8l4.7,5.6
+			l4.7,3.6l4.7,2.3l4.7,1.4l4.7,0.9l4.7,0.6l4.7,0.4l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0h4.7l4.7,0h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,221.4h226v-86h-226V221.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="221.4" x2="621.5" y2="221.4"/>
+		<line class="st2" x1="395.5" y1="135.4" x2="621.5" y2="135.4"/>
+		<line class="st2" x1="395.5" y1="221.4" x2="395.5" y2="219.1"/>
+		<line class="st2" x1="489.7" y1="221.4" x2="489.7" y2="219.1"/>
+		<line class="st2" x1="583.8" y1="221.4" x2="583.8" y2="219.1"/>
+		<line class="st2" x1="395.5" y1="135.4" x2="395.5" y2="137.6"/>
+		<line class="st2" x1="489.7" y1="135.4" x2="489.7" y2="137.6"/>
+		<line class="st2" x1="583.8" y1="135.4" x2="583.8" y2="137.6"/>
+	</g>
+	<g transform="translate(395.5,187.5)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="221.4" x2="395.5" y2="135.4"/>
+		<line class="st2" x1="621.5" y1="221.4" x2="621.5" y2="135.4"/>
+		<line class="st2" x1="395.5" y1="221.4" x2="397.8" y2="221.4"/>
+		<line class="st2" x1="395.5" y1="192.7" x2="397.8" y2="192.7"/>
+		<line class="st2" x1="395.5" y1="164.1" x2="397.8" y2="164.1"/>
+		<line class="st2" x1="395.5" y1="135.4" x2="397.8" y2="135.4"/>
+		<line class="st2" x1="621.5" y1="221.4" x2="619.2" y2="221.4"/>
+		<line class="st2" x1="621.5" y1="192.7" x2="619.2" y2="192.7"/>
+		<line class="st2" x1="621.5" y1="164.1" x2="619.2" y2="164.1"/>
+		<line class="st2" x1="621.5" y1="135.4" x2="619.2" y2="135.4"/>
+	</g>
+	<g transform="translate(388.5,180.5)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,151.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,123.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,94.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g transform="translate(508.5005,91.375)">
+		<text transform="matrix(1 0 0 1 -26.5 33.888)" class="st3 st4">bCat</text>
+	</g>
+	<g>
+		<path class="st5" d="M395.5,221.4l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l0,0l4.7-1.1l4.7-0.4l4.7,0.1l4.7,0.4l4.7,0.4
+			l4.7,0.4l4.7,0.4l4.7,0.3l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l0,0l4.7,0.1l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,221.4H917v-86H691.5V221.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="221.4" x2="917" y2="221.4"/>
+		<line class="st2" x1="691.5" y1="135.4" x2="917" y2="135.4"/>
+		<line class="st2" x1="691.5" y1="221.4" x2="691.5" y2="219.1"/>
+		<line class="st2" x1="785.5" y1="221.4" x2="785.5" y2="219.1"/>
+		<line class="st2" x1="879.4" y1="221.4" x2="879.4" y2="219.1"/>
+		<line class="st2" x1="691.5" y1="135.4" x2="691.5" y2="137.6"/>
+		<line class="st2" x1="785.5" y1="135.4" x2="785.5" y2="137.6"/>
+		<line class="st2" x1="879.4" y1="135.4" x2="879.4" y2="137.6"/>
+	</g>
+	<g transform="translate(691.5,187.5)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="221.4" x2="691.5" y2="135.4"/>
+		<line class="st2" x1="917" y1="221.4" x2="917" y2="135.4"/>
+		<line class="st2" x1="691.5" y1="221.4" x2="693.8" y2="221.4"/>
+		<line class="st2" x1="691.5" y1="182.3" x2="693.8" y2="182.3"/>
+		<line class="st2" x1="691.5" y1="143.2" x2="693.8" y2="143.2"/>
+		<line class="st2" x1="917" y1="221.4" x2="914.7" y2="221.4"/>
+		<line class="st2" x1="917" y1="182.3" x2="914.7" y2="182.3"/>
+		<line class="st2" x1="917" y1="143.2" x2="914.7" y2="143.2"/>
+	</g>
+	<g transform="translate(684.5,180.5)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,141.4091)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,102.3182)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(804.2508,91.375)">
+		<text transform="matrix(1 0 0 1 -30.5 33.888)" class="st3 st4">SOX2</text>
+	</g>
+	<g>
+		<path class="st5" d="M691.5,143.2l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l0,0l4.7,2.1l4.7,1.1l4.7,0.3l4.7-0.3l4.7-0.8
+			l4.7-1.2l4.7-1.4l4.7-1.6l4.7-1.7l4.7-1.7l4.7-1.7l4.7-1.6l4.7-1.5l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l0,0l4.7-0.9l4.7-0.8
+			l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l4.7-0.4l4.7-0.4l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.1l4.7-0.1l4.7-0.1
+			l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g transform="translate(917,102.3182)">
+		<circle class="st6" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,102.3182)">
+		<path class="st6" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,221.4h226v-86H987V221.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="221.4" x2="1213" y2="221.4"/>
+		<line class="st2" x1="987" y1="135.4" x2="1213" y2="135.4"/>
+		<line class="st2" x1="987" y1="221.4" x2="987" y2="219.1"/>
+		<line class="st2" x1="1081.2" y1="221.4" x2="1081.2" y2="219.1"/>
+		<line class="st2" x1="1175.3" y1="221.4" x2="1175.3" y2="219.1"/>
+		<line class="st2" x1="987" y1="135.4" x2="987" y2="137.6"/>
+		<line class="st2" x1="1081.2" y1="135.4" x2="1081.2" y2="137.6"/>
+		<line class="st2" x1="1175.3" y1="135.4" x2="1175.3" y2="137.6"/>
+	</g>
+	<g transform="translate(987,187.5)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="221.4" x2="987" y2="135.4"/>
+		<line class="st2" x1="1213" y1="221.4" x2="1213" y2="135.4"/>
+		<line class="st2" x1="987" y1="221.4" x2="989.3" y2="221.4"/>
+		<line class="st2" x1="987" y1="192.7" x2="989.3" y2="192.7"/>
+		<line class="st2" x1="987" y1="164.1" x2="989.3" y2="164.1"/>
+		<line class="st2" x1="987" y1="135.4" x2="989.3" y2="135.4"/>
+		<line class="st2" x1="1213" y1="221.4" x2="1210.7" y2="221.4"/>
+		<line class="st2" x1="1213" y1="192.7" x2="1210.7" y2="192.7"/>
+		<line class="st2" x1="1213" y1="164.1" x2="1210.7" y2="164.1"/>
+		<line class="st2" x1="1213" y1="135.4" x2="1210.7" y2="135.4"/>
+	</g>
+	<g transform="translate(980,180.5)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,151.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,123.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,94.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g transform="translate(1100.0011,91.375)">
+		<text transform="matrix(1 0 0 1 -23.5 33.888)" class="st3 st4">BRA</text>
+	</g>
+	<g>
+		<path class="st5" d="M987,221.4h4.7h4.7h4.7h4.7h4.7h4.7l0,0h4.7h4.7h4.7l4.7,0h4.7h4.7l4.7,0h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7
+			h4.7h4.7h4.7l0,0h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7"/>
+	</g>
+	<g transform="translate(1213,180.5)">
+		<circle class="st6" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,180.5)">
+		<path class="st6" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,221.4h225.5v-86H1283V221.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="221.4" x2="1508.5" y2="221.4"/>
+		<line class="st2" x1="1283" y1="135.4" x2="1508.5" y2="135.4"/>
+		<line class="st2" x1="1283" y1="221.4" x2="1283" y2="219.1"/>
+		<line class="st2" x1="1377" y1="221.4" x2="1377" y2="219.1"/>
+		<line class="st2" x1="1470.9" y1="221.4" x2="1470.9" y2="219.1"/>
+		<line class="st2" x1="1283" y1="135.4" x2="1283" y2="137.6"/>
+		<line class="st2" x1="1377" y1="135.4" x2="1377" y2="137.6"/>
+		<line class="st2" x1="1470.9" y1="135.4" x2="1470.9" y2="137.6"/>
+	</g>
+	<g transform="translate(1283,187.5)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,187.5)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="221.4" x2="1283" y2="135.4"/>
+		<line class="st2" x1="1508.5" y1="221.4" x2="1508.5" y2="135.4"/>
+		<line class="st2" x1="1283" y1="221.4" x2="1285.3" y2="221.4"/>
+		<line class="st2" x1="1283" y1="192.7" x2="1285.3" y2="192.7"/>
+		<line class="st2" x1="1283" y1="164.1" x2="1285.3" y2="164.1"/>
+		<line class="st2" x1="1283" y1="135.4" x2="1285.3" y2="135.4"/>
+		<line class="st2" x1="1508.5" y1="221.4" x2="1506.2" y2="221.4"/>
+		<line class="st2" x1="1508.5" y1="192.7" x2="1506.2" y2="192.7"/>
+		<line class="st2" x1="1508.5" y1="164.1" x2="1506.2" y2="164.1"/>
+		<line class="st2" x1="1508.5" y1="135.4" x2="1506.2" y2="135.4"/>
+	</g>
+	<g transform="translate(1276,180.5)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,151.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,123.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,94.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g transform="translate(1395.7513,91.375)">
+		<text transform="matrix(1 0 0 1 -31 33.888)" class="st3 st4">CDX2</text>
+	</g>
+	<g>
+		<path class="st5" d="M1283,221.4l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l0,0l4.7-0.2l4.7-0.2l4.7-0.1l4.7-0.1l4.7,0
+			l4.7,0.2l4.7,0.2l4.7,0.3l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0h4.7l4.7,0h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7h4.7"/>
+	</g>
+	<g transform="translate(1508.5,180.5)">
+		<circle class="st6" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,180.5)">
+		<path class="st6" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1956,164.9v-29.5h-439.5v29.5H1956z"/>
+	</g>
+	<g transform="translate(1553.5,109.25)">
+		<text transform="matrix(1 0 0 1 0 46.888)" class="st3 st4">@48h, BMP 2ng/ml 0-6, Noggin 6-48</text>
+	</g>
+	<g>
+		<line class="st5" x1="1520.5" y1="150.1" x2="1550.5" y2="150.1"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,164.9v-29.5H1956v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,360.9h225.5v-86H100V360.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="360.9" x2="325.5" y2="360.9"/>
+		<line class="st2" x1="100" y1="274.9" x2="325.5" y2="274.9"/>
+		<line class="st2" x1="100" y1="360.9" x2="100" y2="358.6"/>
+		<line class="st2" x1="194" y1="360.9" x2="194" y2="358.6"/>
+		<line class="st2" x1="287.9" y1="360.9" x2="287.9" y2="358.6"/>
+		<line class="st2" x1="100" y1="274.9" x2="100" y2="277.1"/>
+		<line class="st2" x1="194" y1="274.9" x2="194" y2="277.1"/>
+		<line class="st2" x1="287.9" y1="274.9" x2="287.9" y2="277.1"/>
+	</g>
+	<g transform="translate(100,327)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="360.9" x2="100" y2="274.9"/>
+		<line class="st2" x1="325.5" y1="360.9" x2="325.5" y2="274.9"/>
+		<line class="st2" x1="100" y1="360.9" x2="102.3" y2="360.9"/>
+		<line class="st2" x1="100" y1="332.2" x2="102.3" y2="332.2"/>
+		<line class="st2" x1="100" y1="303.6" x2="102.3" y2="303.6"/>
+		<line class="st2" x1="100" y1="274.9" x2="102.3" y2="274.9"/>
+		<line class="st2" x1="325.5" y1="360.9" x2="323.2" y2="360.9"/>
+		<line class="st2" x1="325.5" y1="332.2" x2="323.2" y2="332.2"/>
+		<line class="st2" x1="325.5" y1="303.6" x2="323.2" y2="303.6"/>
+		<line class="st2" x1="325.5" y1="274.9" x2="323.2" y2="274.9"/>
+	</g>
+	<g transform="translate(93,320)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,291.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,262.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,234)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st8" d="M100,360.9l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l0,0l4.7,19.5l4.7,12.4l4.7,7.9l4.7,5.1l4.7,3.2l4.7,2.1l4.7,1.3l4.7,0.8l4.7,0.5l4.7,0.3l4.7,0.2l4.7,0.1l0,0l4.7,0.1
+			l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0h4.7l4.7,0h4.7h4.7h4.7h4.7
+			h4.7"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,360.9h226v-86h-226V360.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="360.9" x2="621.5" y2="360.9"/>
+		<line class="st2" x1="395.5" y1="274.9" x2="621.5" y2="274.9"/>
+		<line class="st2" x1="395.5" y1="360.9" x2="395.5" y2="358.6"/>
+		<line class="st2" x1="489.7" y1="360.9" x2="489.7" y2="358.6"/>
+		<line class="st2" x1="583.8" y1="360.9" x2="583.8" y2="358.6"/>
+		<line class="st2" x1="395.5" y1="274.9" x2="395.5" y2="277.1"/>
+		<line class="st2" x1="489.7" y1="274.9" x2="489.7" y2="277.1"/>
+		<line class="st2" x1="583.8" y1="274.9" x2="583.8" y2="277.1"/>
+	</g>
+	<g transform="translate(395.5,327)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="360.9" x2="395.5" y2="274.9"/>
+		<line class="st2" x1="621.5" y1="360.9" x2="621.5" y2="274.9"/>
+		<line class="st2" x1="395.5" y1="360.9" x2="397.8" y2="360.9"/>
+		<line class="st2" x1="395.5" y1="332.2" x2="397.8" y2="332.2"/>
+		<line class="st2" x1="395.5" y1="303.6" x2="397.8" y2="303.6"/>
+		<line class="st2" x1="395.5" y1="274.9" x2="397.8" y2="274.9"/>
+		<line class="st2" x1="621.5" y1="360.9" x2="619.2" y2="360.9"/>
+		<line class="st2" x1="621.5" y1="332.2" x2="619.2" y2="332.2"/>
+		<line class="st2" x1="621.5" y1="303.6" x2="619.2" y2="303.6"/>
+		<line class="st2" x1="621.5" y1="274.9" x2="619.2" y2="274.9"/>
+	</g>
+	<g transform="translate(388.5,320)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,291.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,262.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,234)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st8" d="M395.5,360.9l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5l4.7-1.5
+			l0,0l4.7-1l4.7,0.2l4.7,0.9l4.7,1.2l4.7,1.2l4.7,1.2l4.7,1.1l4.7,1l4.7,0.8l4.7,0.7l4.7,0.6l4.7,0.5l0,0l4.7,0.5l4.7,0.4l4.7,0.3
+			l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,360.9H917v-86H691.5V360.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="360.9" x2="917" y2="360.9"/>
+		<line class="st2" x1="691.5" y1="274.9" x2="917" y2="274.9"/>
+		<line class="st2" x1="691.5" y1="360.9" x2="691.5" y2="358.6"/>
+		<line class="st2" x1="785.5" y1="360.9" x2="785.5" y2="358.6"/>
+		<line class="st2" x1="879.4" y1="360.9" x2="879.4" y2="358.6"/>
+		<line class="st2" x1="691.5" y1="274.9" x2="691.5" y2="277.1"/>
+		<line class="st2" x1="785.5" y1="274.9" x2="785.5" y2="277.1"/>
+		<line class="st2" x1="879.4" y1="274.9" x2="879.4" y2="277.1"/>
+	</g>
+	<g transform="translate(691.5,327)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="360.9" x2="691.5" y2="274.9"/>
+		<line class="st2" x1="917" y1="360.9" x2="917" y2="274.9"/>
+		<line class="st2" x1="691.5" y1="360.9" x2="693.8" y2="360.9"/>
+		<line class="st2" x1="691.5" y1="321.8" x2="693.8" y2="321.8"/>
+		<line class="st2" x1="691.5" y1="282.7" x2="693.8" y2="282.7"/>
+		<line class="st2" x1="917" y1="360.9" x2="914.7" y2="360.9"/>
+		<line class="st2" x1="917" y1="321.8" x2="914.7" y2="321.8"/>
+		<line class="st2" x1="917" y1="282.7" x2="914.7" y2="282.7"/>
+	</g>
+	<g transform="translate(684.5,320)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,280.9091)">
+		<text transform="matrix(1 0 0 1 -35 46.8881)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,241.8182)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st8" d="M691.5,282.7l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l0,0l4.7,0.5l4.7-0.2l4.7-0.8l4.7-1.3l4.7-1.6l4.7-1.8l4.7-2l4.7-2l4.7-2l4.7-2l4.7-1.9l4.7-1.8l0,0l4.7-1.7l4.7-1.6l4.7-1.4
+			l4.7-1.3l4.7-1.2l4.7-1.1l4.7-0.9l4.7-0.8l4.7-0.7l4.7-0.7l4.7-0.6l4.7-0.5l4.7-0.4l4.7-0.4l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2
+			l4.7-0.2l4.7-0.2l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1"/>
+	</g>
+	<g transform="translate(917,241.8182)">
+		<circle class="st9" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,241.8182)">
+		<path class="st9" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,360.9h226v-86H987V360.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="360.9" x2="1213" y2="360.9"/>
+		<line class="st2" x1="987" y1="274.9" x2="1213" y2="274.9"/>
+		<line class="st2" x1="987" y1="360.9" x2="987" y2="358.6"/>
+		<line class="st2" x1="1081.2" y1="360.9" x2="1081.2" y2="358.6"/>
+		<line class="st2" x1="1175.3" y1="360.9" x2="1175.3" y2="358.6"/>
+		<line class="st2" x1="987" y1="274.9" x2="987" y2="277.1"/>
+		<line class="st2" x1="1081.2" y1="274.9" x2="1081.2" y2="277.1"/>
+		<line class="st2" x1="1175.3" y1="274.9" x2="1175.3" y2="277.1"/>
+	</g>
+	<g transform="translate(987,327)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="360.9" x2="987" y2="274.9"/>
+		<line class="st2" x1="1213" y1="360.9" x2="1213" y2="274.9"/>
+		<line class="st2" x1="987" y1="360.9" x2="989.3" y2="360.9"/>
+		<line class="st2" x1="987" y1="332.2" x2="989.3" y2="332.2"/>
+		<line class="st2" x1="987" y1="303.6" x2="989.3" y2="303.6"/>
+		<line class="st2" x1="987" y1="274.9" x2="989.3" y2="274.9"/>
+		<line class="st2" x1="1213" y1="360.9" x2="1210.7" y2="360.9"/>
+		<line class="st2" x1="1213" y1="332.2" x2="1210.7" y2="332.2"/>
+		<line class="st2" x1="1213" y1="303.6" x2="1210.7" y2="303.6"/>
+		<line class="st2" x1="1213" y1="274.9" x2="1210.7" y2="274.9"/>
+	</g>
+	<g transform="translate(980,320)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,291.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,262.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,234)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st8" d="M987,360.9h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0h4.7l4.7,0l4.7,0h4.7h4.7h4.7"/>
+	</g>
+	<g transform="translate(1213,320)">
+		<circle class="st9" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,320)">
+		<path class="st9" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,360.9h225.5v-86H1283V360.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="360.9" x2="1508.5" y2="360.9"/>
+		<line class="st2" x1="1283" y1="274.9" x2="1508.5" y2="274.9"/>
+		<line class="st2" x1="1283" y1="360.9" x2="1283" y2="358.6"/>
+		<line class="st2" x1="1377" y1="360.9" x2="1377" y2="358.6"/>
+		<line class="st2" x1="1470.9" y1="360.9" x2="1470.9" y2="358.6"/>
+		<line class="st2" x1="1283" y1="274.9" x2="1283" y2="277.1"/>
+		<line class="st2" x1="1377" y1="274.9" x2="1377" y2="277.1"/>
+		<line class="st2" x1="1470.9" y1="274.9" x2="1470.9" y2="277.1"/>
+	</g>
+	<g transform="translate(1283,327)">
+		<text transform="matrix(1 0 0 1 -7 59.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,327)">
+		<text transform="matrix(1 0 0 1 -14 59.888)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="360.9" x2="1283" y2="274.9"/>
+		<line class="st2" x1="1508.5" y1="360.9" x2="1508.5" y2="274.9"/>
+		<line class="st2" x1="1283" y1="360.9" x2="1285.3" y2="360.9"/>
+		<line class="st2" x1="1283" y1="332.2" x2="1285.3" y2="332.2"/>
+		<line class="st2" x1="1283" y1="303.6" x2="1285.3" y2="303.6"/>
+		<line class="st2" x1="1283" y1="274.9" x2="1285.3" y2="274.9"/>
+		<line class="st2" x1="1508.5" y1="360.9" x2="1506.2" y2="360.9"/>
+		<line class="st2" x1="1508.5" y1="332.2" x2="1506.2" y2="332.2"/>
+		<line class="st2" x1="1508.5" y1="303.6" x2="1506.2" y2="303.6"/>
+		<line class="st2" x1="1508.5" y1="274.9" x2="1506.2" y2="274.9"/>
+	</g>
+	<g transform="translate(1276,320)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,291.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,262.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,234)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st8" d="M1283,360.9l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l0,0l4.7-0.3l4.7-0.2l4.7,0l4.7,0.1l4.7,0.3l4.7,0.5l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.1l4.7,0.1l0,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0h4.7l4.7,0h4.7l4.7,0h4.7h4.7h4.7h4.7h4.7h4.7h4.7"/>
+	</g>
+	<g transform="translate(1508.5,320)">
+		<circle class="st9" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,320)">
+		<path class="st9" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,304.4v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,248.75)">
+		<text transform="matrix(1 0 0 1 0 46.888)" class="st3 st4">@48h, BMP 2ng/ml 0-12, Noggin 12-48</text>
+	</g>
+	<g>
+		<line class="st8" x1="1520.5" y1="289.6" x2="1550.5" y2="289.6"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,304.4v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,500.4h225.5v-86H100V500.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="500.4" x2="325.5" y2="500.4"/>
+		<line class="st2" x1="100" y1="414.4" x2="325.5" y2="414.4"/>
+		<line class="st2" x1="100" y1="500.4" x2="100" y2="498.1"/>
+		<line class="st2" x1="194" y1="500.4" x2="194" y2="498.1"/>
+		<line class="st2" x1="287.9" y1="500.4" x2="287.9" y2="498.1"/>
+		<line class="st2" x1="100" y1="414.4" x2="100" y2="416.6"/>
+		<line class="st2" x1="194" y1="414.4" x2="194" y2="416.6"/>
+		<line class="st2" x1="287.9" y1="414.4" x2="287.9" y2="416.6"/>
+	</g>
+	<g transform="translate(100,466.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="500.4" x2="100" y2="414.4"/>
+		<line class="st2" x1="325.5" y1="500.4" x2="325.5" y2="414.4"/>
+		<line class="st2" x1="100" y1="500.4" x2="102.3" y2="500.4"/>
+		<line class="st2" x1="100" y1="471.7" x2="102.3" y2="471.7"/>
+		<line class="st2" x1="100" y1="443.1" x2="102.3" y2="443.1"/>
+		<line class="st2" x1="100" y1="414.4" x2="102.3" y2="414.4"/>
+		<line class="st2" x1="325.5" y1="500.4" x2="323.2" y2="500.4"/>
+		<line class="st2" x1="325.5" y1="471.7" x2="323.2" y2="471.7"/>
+		<line class="st2" x1="325.5" y1="443.1" x2="323.2" y2="443.1"/>
+		<line class="st2" x1="325.5" y1="414.4" x2="323.2" y2="414.4"/>
+	</g>
+	<g transform="translate(93,459.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,430.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,402.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,373.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st10" d="M100,500.4l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l0,0l4.7,17.2l4.7,11l4.7,7l4.7,4.5l4.7,2.8l4.7,1.8l0,0l4.7,1.2l4.7,0.7
+			l4.7,0.5l4.7,0.3l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			h4.7l4.7,0h4.7"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,500.4h226v-86h-226V500.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="500.4" x2="621.5" y2="500.4"/>
+		<line class="st2" x1="395.5" y1="414.4" x2="621.5" y2="414.4"/>
+		<line class="st2" x1="395.5" y1="500.4" x2="395.5" y2="498.1"/>
+		<line class="st2" x1="489.7" y1="500.4" x2="489.7" y2="498.1"/>
+		<line class="st2" x1="583.8" y1="500.4" x2="583.8" y2="498.1"/>
+		<line class="st2" x1="395.5" y1="414.4" x2="395.5" y2="416.6"/>
+		<line class="st2" x1="489.7" y1="414.4" x2="489.7" y2="416.6"/>
+		<line class="st2" x1="583.8" y1="414.4" x2="583.8" y2="416.6"/>
+	</g>
+	<g transform="translate(395.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="500.4" x2="395.5" y2="414.4"/>
+		<line class="st2" x1="621.5" y1="500.4" x2="621.5" y2="414.4"/>
+		<line class="st2" x1="395.5" y1="500.4" x2="397.8" y2="500.4"/>
+		<line class="st2" x1="395.5" y1="471.7" x2="397.8" y2="471.7"/>
+		<line class="st2" x1="395.5" y1="443.1" x2="397.8" y2="443.1"/>
+		<line class="st2" x1="395.5" y1="414.4" x2="397.8" y2="414.4"/>
+		<line class="st2" x1="621.5" y1="500.4" x2="619.2" y2="500.4"/>
+		<line class="st2" x1="621.5" y1="471.7" x2="619.2" y2="471.7"/>
+		<line class="st2" x1="621.5" y1="443.1" x2="619.2" y2="443.1"/>
+		<line class="st2" x1="621.5" y1="414.4" x2="619.2" y2="414.4"/>
+	</g>
+	<g transform="translate(388.5,459.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,430.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,402.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,373.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st10" d="M395.5,500.4l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5l4.7-1.4
+			l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l0,0l4.7-0.5l4.7,0.5l4.7,1.2l4.7,1.5l4.7,1.6l4.7,1.6l0,0l4.7,1.5l4.7,1.4
+			l4.7,1.3l4.7,1.1l4.7,1l4.7,0.9l4.7,0.8l4.7,0.7l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.4l4.7,0.3l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.2
+			l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,500.4H917v-86H691.5V500.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="500.4" x2="917" y2="500.4"/>
+		<line class="st2" x1="691.5" y1="414.4" x2="917" y2="414.4"/>
+		<line class="st2" x1="691.5" y1="500.4" x2="691.5" y2="498.1"/>
+		<line class="st2" x1="785.5" y1="500.4" x2="785.5" y2="498.1"/>
+		<line class="st2" x1="879.4" y1="500.4" x2="879.4" y2="498.1"/>
+		<line class="st2" x1="691.5" y1="414.4" x2="691.5" y2="416.6"/>
+		<line class="st2" x1="785.5" y1="414.4" x2="785.5" y2="416.6"/>
+		<line class="st2" x1="879.4" y1="414.4" x2="879.4" y2="416.6"/>
+	</g>
+	<g transform="translate(691.5,466.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="500.4" x2="691.5" y2="414.4"/>
+		<line class="st2" x1="917" y1="500.4" x2="917" y2="414.4"/>
+		<line class="st2" x1="691.5" y1="500.4" x2="693.8" y2="500.4"/>
+		<line class="st2" x1="691.5" y1="461.3" x2="693.8" y2="461.3"/>
+		<line class="st2" x1="691.5" y1="422.2" x2="693.8" y2="422.2"/>
+		<line class="st2" x1="917" y1="500.4" x2="914.7" y2="500.4"/>
+		<line class="st2" x1="917" y1="461.3" x2="914.7" y2="461.3"/>
+		<line class="st2" x1="917" y1="422.2" x2="914.7" y2="422.2"/>
+	</g>
+	<g transform="translate(684.5,459.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,420.4091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,381.3182)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st10" d="M691.5,422.2l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l0,0l4.7-0.1l4.7-0.8l4.7-1.2l4.7-1.6l4.7-1.9l4.7-2.1l0,0l4.7-2.1l4.7-2.2
+			l4.7-2.1l4.7-2.1l4.7-2l4.7-1.8l4.7-1.7l4.7-1.6l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1l4.7-0.9l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5
+			l4.7-0.4l4.7-0.4l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2"/>
+	</g>
+	<g transform="translate(917,381.3182)">
+		<circle class="st11" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,381.3182)">
+		<path class="st11" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,500.4h226v-86H987V500.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="500.4" x2="1213" y2="500.4"/>
+		<line class="st2" x1="987" y1="414.4" x2="1213" y2="414.4"/>
+		<line class="st2" x1="987" y1="500.4" x2="987" y2="498.1"/>
+		<line class="st2" x1="1081.2" y1="500.4" x2="1081.2" y2="498.1"/>
+		<line class="st2" x1="1175.3" y1="500.4" x2="1175.3" y2="498.1"/>
+		<line class="st2" x1="987" y1="414.4" x2="987" y2="416.6"/>
+		<line class="st2" x1="1081.2" y1="414.4" x2="1081.2" y2="416.6"/>
+		<line class="st2" x1="1175.3" y1="414.4" x2="1175.3" y2="416.6"/>
+	</g>
+	<g transform="translate(987,466.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="500.4" x2="987" y2="414.4"/>
+		<line class="st2" x1="1213" y1="500.4" x2="1213" y2="414.4"/>
+		<line class="st2" x1="987" y1="500.4" x2="989.3" y2="500.4"/>
+		<line class="st2" x1="987" y1="471.7" x2="989.3" y2="471.7"/>
+		<line class="st2" x1="987" y1="443.1" x2="989.3" y2="443.1"/>
+		<line class="st2" x1="987" y1="414.4" x2="989.3" y2="414.4"/>
+		<line class="st2" x1="1213" y1="500.4" x2="1210.7" y2="500.4"/>
+		<line class="st2" x1="1213" y1="471.7" x2="1210.7" y2="471.7"/>
+		<line class="st2" x1="1213" y1="443.1" x2="1210.7" y2="443.1"/>
+		<line class="st2" x1="1213" y1="414.4" x2="1210.7" y2="414.4"/>
+	</g>
+	<g transform="translate(980,459.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,430.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,402.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,373.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st10" d="M987,500.4h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l0,0l4.7-0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g transform="translate(1213,459.5)">
+		<circle class="st11" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,459.5)">
+		<path class="st11" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,500.4h225.5v-86H1283V500.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="500.4" x2="1508.5" y2="500.4"/>
+		<line class="st2" x1="1283" y1="414.4" x2="1508.5" y2="414.4"/>
+		<line class="st2" x1="1283" y1="500.4" x2="1283" y2="498.1"/>
+		<line class="st2" x1="1377" y1="500.4" x2="1377" y2="498.1"/>
+		<line class="st2" x1="1470.9" y1="500.4" x2="1470.9" y2="498.1"/>
+		<line class="st2" x1="1283" y1="414.4" x2="1283" y2="416.6"/>
+		<line class="st2" x1="1377" y1="414.4" x2="1377" y2="416.6"/>
+		<line class="st2" x1="1470.9" y1="414.4" x2="1470.9" y2="416.6"/>
+	</g>
+	<g transform="translate(1283,466.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,466.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="500.4" x2="1283" y2="414.4"/>
+		<line class="st2" x1="1508.5" y1="500.4" x2="1508.5" y2="414.4"/>
+		<line class="st2" x1="1283" y1="500.4" x2="1285.3" y2="500.4"/>
+		<line class="st2" x1="1283" y1="471.7" x2="1285.3" y2="471.7"/>
+		<line class="st2" x1="1283" y1="443.1" x2="1285.3" y2="443.1"/>
+		<line class="st2" x1="1283" y1="414.4" x2="1285.3" y2="414.4"/>
+		<line class="st2" x1="1508.5" y1="500.4" x2="1506.2" y2="500.4"/>
+		<line class="st2" x1="1508.5" y1="471.7" x2="1506.2" y2="471.7"/>
+		<line class="st2" x1="1508.5" y1="443.1" x2="1506.2" y2="443.1"/>
+		<line class="st2" x1="1508.5" y1="414.4" x2="1506.2" y2="414.4"/>
+	</g>
+	<g transform="translate(1276,459.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,430.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,402.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.888)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,373.5)">
+		<text transform="matrix(1 0 0 1 -35 46.888)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st10" d="M1283,500.4l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7,0l4.7,0.2l4.7,0.4l4.7,0.6l4.7,0.7l0,0l4.7,0.6
+			l4.7,0.5l4.7,0.3l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0h4.7
+			l4.7,0h4.7l4.7,0h4.7"/>
+	</g>
+	<g transform="translate(1508.5,459.5)">
+		<circle class="st11" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,459.5)">
+		<path class="st11" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,443.9v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,388.25)">
+		<text transform="matrix(1 0 0 1 0 46.888)" class="st3 st4">@48h, BMP 2ng/ml 0-18, Noggin 18-48</text>
+	</g>
+	<g>
+		<line class="st10" x1="1520.5" y1="429.1" x2="1550.5" y2="429.1"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,443.9v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,639.9h225.5v-86H100V639.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="639.9" x2="325.5" y2="639.9"/>
+		<line class="st2" x1="100" y1="553.9" x2="325.5" y2="553.9"/>
+		<line class="st2" x1="100" y1="639.9" x2="100" y2="637.6"/>
+		<line class="st2" x1="194" y1="639.9" x2="194" y2="637.6"/>
+		<line class="st2" x1="287.9" y1="639.9" x2="287.9" y2="637.6"/>
+		<line class="st2" x1="100" y1="553.9" x2="100" y2="556.1"/>
+		<line class="st2" x1="194" y1="553.9" x2="194" y2="556.1"/>
+		<line class="st2" x1="287.9" y1="553.9" x2="287.9" y2="556.1"/>
+	</g>
+	<g transform="translate(100,606)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="639.9" x2="100" y2="553.9"/>
+		<line class="st2" x1="325.5" y1="639.9" x2="325.5" y2="553.9"/>
+		<line class="st2" x1="100" y1="639.9" x2="102.3" y2="639.9"/>
+		<line class="st2" x1="100" y1="611.2" x2="102.3" y2="611.2"/>
+		<line class="st2" x1="100" y1="582.6" x2="102.3" y2="582.6"/>
+		<line class="st2" x1="100" y1="553.9" x2="102.3" y2="553.9"/>
+		<line class="st2" x1="325.5" y1="639.9" x2="323.2" y2="639.9"/>
+		<line class="st2" x1="325.5" y1="611.2" x2="323.2" y2="611.2"/>
+		<line class="st2" x1="325.5" y1="582.6" x2="323.2" y2="582.6"/>
+		<line class="st2" x1="325.5" y1="553.9" x2="323.2" y2="553.9"/>
+	</g>
+	<g transform="translate(93,599)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,570.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,541.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,513)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st12" d="M100,639.9l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l4.7,1l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7,15.2l4.7,9.7l4.7,6.2
+			l4.7,3.9l4.7,2.5l4.7,1.6l4.7,1l4.7,0.7l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,639.9h226v-86h-226V639.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="639.9" x2="621.5" y2="639.9"/>
+		<line class="st2" x1="395.5" y1="553.9" x2="621.5" y2="553.9"/>
+		<line class="st2" x1="395.5" y1="639.9" x2="395.5" y2="637.6"/>
+		<line class="st2" x1="489.7" y1="639.9" x2="489.7" y2="637.6"/>
+		<line class="st2" x1="583.8" y1="639.9" x2="583.8" y2="637.6"/>
+		<line class="st2" x1="395.5" y1="553.9" x2="395.5" y2="556.1"/>
+		<line class="st2" x1="489.7" y1="553.9" x2="489.7" y2="556.1"/>
+		<line class="st2" x1="583.8" y1="553.9" x2="583.8" y2="556.1"/>
+	</g>
+	<g transform="translate(395.5,606)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="639.9" x2="395.5" y2="553.9"/>
+		<line class="st2" x1="621.5" y1="639.9" x2="621.5" y2="553.9"/>
+		<line class="st2" x1="395.5" y1="639.9" x2="397.8" y2="639.9"/>
+		<line class="st2" x1="395.5" y1="611.2" x2="397.8" y2="611.2"/>
+		<line class="st2" x1="395.5" y1="582.6" x2="397.8" y2="582.6"/>
+		<line class="st2" x1="395.5" y1="553.9" x2="397.8" y2="553.9"/>
+		<line class="st2" x1="621.5" y1="639.9" x2="619.2" y2="639.9"/>
+		<line class="st2" x1="621.5" y1="611.2" x2="619.2" y2="611.2"/>
+		<line class="st2" x1="621.5" y1="582.6" x2="619.2" y2="582.6"/>
+		<line class="st2" x1="621.5" y1="553.9" x2="619.2" y2="553.9"/>
+	</g>
+	<g transform="translate(388.5,599)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,570.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,541.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,513)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st12" d="M395.5,639.9l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5l4.7-1.4
+			l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l4.7-0.8l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l0,0l4.7-0.2l4.7,0.6l4.7,1.1
+			l4.7,1.4l4.7,1.6l4.7,1.6l4.7,1.7l4.7,1.6l4.7,1.5l4.7,1.4l4.7,1.3l4.7,1.2l4.7,1l4.7,0.9l4.7,0.8l4.7,0.7l4.7,0.6l4.7,0.5
+			l4.7,0.4l4.7,0.4l4.7,0.3l4.7,0.3l4.7,0.2l4.7,0.2"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,639.9H917v-86H691.5V639.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="639.9" x2="917" y2="639.9"/>
+		<line class="st2" x1="691.5" y1="553.9" x2="917" y2="553.9"/>
+		<line class="st2" x1="691.5" y1="639.9" x2="691.5" y2="637.6"/>
+		<line class="st2" x1="785.5" y1="639.9" x2="785.5" y2="637.6"/>
+		<line class="st2" x1="879.4" y1="639.9" x2="879.4" y2="637.6"/>
+		<line class="st2" x1="691.5" y1="553.9" x2="691.5" y2="556.1"/>
+		<line class="st2" x1="785.5" y1="553.9" x2="785.5" y2="556.1"/>
+		<line class="st2" x1="879.4" y1="553.9" x2="879.4" y2="556.1"/>
+	</g>
+	<g transform="translate(691.5,606)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="639.9" x2="691.5" y2="553.9"/>
+		<line class="st2" x1="917" y1="639.9" x2="917" y2="553.9"/>
+		<line class="st2" x1="691.5" y1="639.9" x2="693.8" y2="639.9"/>
+		<line class="st2" x1="691.5" y1="600.8" x2="693.8" y2="600.8"/>
+		<line class="st2" x1="691.5" y1="561.7" x2="693.8" y2="561.7"/>
+		<line class="st2" x1="917" y1="639.9" x2="914.7" y2="639.9"/>
+		<line class="st2" x1="917" y1="600.8" x2="914.7" y2="600.8"/>
+		<line class="st2" x1="917" y1="561.7" x2="914.7" y2="561.7"/>
+	</g>
+	<g transform="translate(684.5,599)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,559.9091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,520.8182)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st12" d="M691.5,561.7l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l0,0l4.7-0.4l4.7-0.9l4.7-1.4
+			l4.7-1.7l4.7-2l4.7-2.1l4.7-2.2l4.7-2.2l4.7-2.1l4.7-2.1l4.7-2l4.7-1.8l4.7-1.7l4.7-1.5l4.7-1.4l4.7-1.3l4.7-1.1l4.7-1l4.7-0.9
+			l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.5l4.7-0.5"/>
+	</g>
+	<g transform="translate(917,520.8182)">
+		<circle class="st13" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,520.8182)">
+		<path class="st13" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,639.9h226v-86H987V639.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="639.9" x2="1213" y2="639.9"/>
+		<line class="st2" x1="987" y1="553.9" x2="1213" y2="553.9"/>
+		<line class="st2" x1="987" y1="639.9" x2="987" y2="637.6"/>
+		<line class="st2" x1="1081.2" y1="639.9" x2="1081.2" y2="637.6"/>
+		<line class="st2" x1="1175.3" y1="639.9" x2="1175.3" y2="637.6"/>
+		<line class="st2" x1="987" y1="553.9" x2="987" y2="556.1"/>
+		<line class="st2" x1="1081.2" y1="553.9" x2="1081.2" y2="556.1"/>
+		<line class="st2" x1="1175.3" y1="553.9" x2="1175.3" y2="556.1"/>
+	</g>
+	<g transform="translate(987,606)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="639.9" x2="987" y2="553.9"/>
+		<line class="st2" x1="1213" y1="639.9" x2="1213" y2="553.9"/>
+		<line class="st2" x1="987" y1="639.9" x2="989.3" y2="639.9"/>
+		<line class="st2" x1="987" y1="611.2" x2="989.3" y2="611.2"/>
+		<line class="st2" x1="987" y1="582.6" x2="989.3" y2="582.6"/>
+		<line class="st2" x1="987" y1="553.9" x2="989.3" y2="553.9"/>
+		<line class="st2" x1="1213" y1="639.9" x2="1210.7" y2="639.9"/>
+		<line class="st2" x1="1213" y1="611.2" x2="1210.7" y2="611.2"/>
+		<line class="st2" x1="1213" y1="582.6" x2="1210.7" y2="582.6"/>
+		<line class="st2" x1="1213" y1="553.9" x2="1210.7" y2="553.9"/>
+	</g>
+	<g transform="translate(980,599)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,570.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,541.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,513)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st12" d="M987,639.9h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l0,0l4.7-0.1l4.7-0.1l4.7,0l4.7,0l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1
+			l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g transform="translate(1213,599)">
+		<circle class="st13" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,599)">
+		<path class="st13" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,639.9h225.5v-86H1283V639.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="639.9" x2="1508.5" y2="639.9"/>
+		<line class="st2" x1="1283" y1="553.9" x2="1508.5" y2="553.9"/>
+		<line class="st2" x1="1283" y1="639.9" x2="1283" y2="637.6"/>
+		<line class="st2" x1="1377" y1="639.9" x2="1377" y2="637.6"/>
+		<line class="st2" x1="1470.9" y1="639.9" x2="1470.9" y2="637.6"/>
+		<line class="st2" x1="1283" y1="553.9" x2="1283" y2="556.1"/>
+		<line class="st2" x1="1377" y1="553.9" x2="1377" y2="556.1"/>
+		<line class="st2" x1="1470.9" y1="553.9" x2="1470.9" y2="556.1"/>
+	</g>
+	<g transform="translate(1283,606)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,606)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="639.9" x2="1283" y2="553.9"/>
+		<line class="st2" x1="1508.5" y1="639.9" x2="1508.5" y2="553.9"/>
+		<line class="st2" x1="1283" y1="639.9" x2="1285.3" y2="639.9"/>
+		<line class="st2" x1="1283" y1="611.2" x2="1285.3" y2="611.2"/>
+		<line class="st2" x1="1283" y1="582.6" x2="1285.3" y2="582.6"/>
+		<line class="st2" x1="1283" y1="553.9" x2="1285.3" y2="553.9"/>
+		<line class="st2" x1="1508.5" y1="639.9" x2="1506.2" y2="639.9"/>
+		<line class="st2" x1="1508.5" y1="611.2" x2="1506.2" y2="611.2"/>
+		<line class="st2" x1="1508.5" y1="582.6" x2="1506.2" y2="582.6"/>
+		<line class="st2" x1="1508.5" y1="553.9" x2="1506.2" y2="553.9"/>
+	</g>
+	<g transform="translate(1276,599)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,570.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,541.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,513)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st12" d="M1283,639.9l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.1l4.7,0
+			l4.7,0.3l4.7,0.6l4.7,0.8l4.7,0.9l4.7,0.7l4.7,0.5l4.7,0.4l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g transform="translate(1508.5,599)">
+		<circle class="st13" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,599)">
+		<path class="st13" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,583.4v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,527.75)">
+		<text transform="matrix(1 0 0 1 0 46.8882)" class="st3 st4">@48h, BMP 2ng/ml 0-24, Noggin 24-48</text>
+	</g>
+	<g>
+		<line class="st12" x1="1520.5" y1="568.6" x2="1550.5" y2="568.6"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,583.4v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,779.4h225.5v-86H100V779.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="779.4" x2="325.5" y2="779.4"/>
+		<line class="st2" x1="100" y1="693.4" x2="325.5" y2="693.4"/>
+		<line class="st2" x1="100" y1="779.4" x2="100" y2="777.1"/>
+		<line class="st2" x1="194" y1="779.4" x2="194" y2="777.1"/>
+		<line class="st2" x1="287.9" y1="779.4" x2="287.9" y2="777.1"/>
+		<line class="st2" x1="100" y1="693.4" x2="100" y2="695.6"/>
+		<line class="st2" x1="194" y1="693.4" x2="194" y2="695.6"/>
+		<line class="st2" x1="287.9" y1="693.4" x2="287.9" y2="695.6"/>
+	</g>
+	<g transform="translate(100,745.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="779.4" x2="100" y2="693.4"/>
+		<line class="st2" x1="325.5" y1="779.4" x2="325.5" y2="693.4"/>
+		<line class="st2" x1="100" y1="779.4" x2="102.3" y2="779.4"/>
+		<line class="st2" x1="100" y1="750.7" x2="102.3" y2="750.7"/>
+		<line class="st2" x1="100" y1="722.1" x2="102.3" y2="722.1"/>
+		<line class="st2" x1="100" y1="693.4" x2="102.3" y2="693.4"/>
+		<line class="st2" x1="325.5" y1="779.4" x2="323.2" y2="779.4"/>
+		<line class="st2" x1="325.5" y1="750.7" x2="323.2" y2="750.7"/>
+		<line class="st2" x1="325.5" y1="722.1" x2="323.2" y2="722.1"/>
+		<line class="st2" x1="325.5" y1="693.4" x2="323.2" y2="693.4"/>
+	</g>
+	<g transform="translate(93,738.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,709.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,681.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,652.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st14" d="M100,779.4l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l4.7,1l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7-3.1l4.7-1.2l4.7-0.2
+			l4.7,0.4l4.7,0.7l4.7,0.8l0,0l4.7,16.2l4.7,10.3l4.7,6.6l4.7,4.2l4.7,2.7l4.7,1.7l4.7,1.1l4.7,0.7l4.7,0.4l4.7,0.3l4.7,0.2
+			l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,779.4h226v-86h-226V779.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="779.4" x2="621.5" y2="779.4"/>
+		<line class="st2" x1="395.5" y1="693.4" x2="621.5" y2="693.4"/>
+		<line class="st2" x1="395.5" y1="779.4" x2="395.5" y2="777.1"/>
+		<line class="st2" x1="489.7" y1="779.4" x2="489.7" y2="777.1"/>
+		<line class="st2" x1="583.8" y1="779.4" x2="583.8" y2="777.1"/>
+		<line class="st2" x1="395.5" y1="693.4" x2="395.5" y2="695.6"/>
+		<line class="st2" x1="489.7" y1="693.4" x2="489.7" y2="695.6"/>
+		<line class="st2" x1="583.8" y1="693.4" x2="583.8" y2="695.6"/>
+	</g>
+	<g transform="translate(395.5,745.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="779.4" x2="395.5" y2="693.4"/>
+		<line class="st2" x1="621.5" y1="779.4" x2="621.5" y2="693.4"/>
+		<line class="st2" x1="395.5" y1="779.4" x2="397.8" y2="779.4"/>
+		<line class="st2" x1="395.5" y1="750.7" x2="397.8" y2="750.7"/>
+		<line class="st2" x1="395.5" y1="722.1" x2="397.8" y2="722.1"/>
+		<line class="st2" x1="395.5" y1="693.4" x2="397.8" y2="693.4"/>
+		<line class="st2" x1="621.5" y1="779.4" x2="619.2" y2="779.4"/>
+		<line class="st2" x1="621.5" y1="750.7" x2="619.2" y2="750.7"/>
+		<line class="st2" x1="621.5" y1="722.1" x2="619.2" y2="722.1"/>
+		<line class="st2" x1="621.5" y1="693.4" x2="619.2" y2="693.4"/>
+	</g>
+	<g transform="translate(388.5,738.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,709.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,681.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,652.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st14" d="M395.5,779.4l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5l4.7-1.4
+			l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l4.7-0.8l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l0,0l4.7-0.6l4.7-0.8l4.7-0.9
+			l4.7-1l4.7-1l4.7-1.1l0,0l4.7-0.8l4.7,0l4.7,0.5l4.7,0.8l4.7,1l4.7,1.2l4.7,1.3l4.7,1.4l4.7,1.5l4.7,1.6l4.7,1.7l4.7,1.7l4.7,1.7
+			l4.7,1.6l4.7,1.5l4.7,1.4l4.7,1.3l4.7,1.2"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,779.4H917v-86H691.5V779.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="779.4" x2="917" y2="779.4"/>
+		<line class="st2" x1="691.5" y1="693.4" x2="917" y2="693.4"/>
+		<line class="st2" x1="691.5" y1="779.4" x2="691.5" y2="777.1"/>
+		<line class="st2" x1="785.5" y1="779.4" x2="785.5" y2="777.1"/>
+		<line class="st2" x1="879.4" y1="779.4" x2="879.4" y2="777.1"/>
+		<line class="st2" x1="691.5" y1="693.4" x2="691.5" y2="695.6"/>
+		<line class="st2" x1="785.5" y1="693.4" x2="785.5" y2="695.6"/>
+		<line class="st2" x1="879.4" y1="693.4" x2="879.4" y2="695.6"/>
+	</g>
+	<g transform="translate(691.5,745.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="779.4" x2="691.5" y2="693.4"/>
+		<line class="st2" x1="917" y1="779.4" x2="917" y2="693.4"/>
+		<line class="st2" x1="691.5" y1="779.4" x2="693.8" y2="779.4"/>
+		<line class="st2" x1="691.5" y1="740.3" x2="693.8" y2="740.3"/>
+		<line class="st2" x1="691.5" y1="701.2" x2="693.8" y2="701.2"/>
+		<line class="st2" x1="917" y1="779.4" x2="914.7" y2="779.4"/>
+		<line class="st2" x1="917" y1="740.3" x2="914.7" y2="740.3"/>
+		<line class="st2" x1="917" y1="701.2" x2="914.7" y2="701.2"/>
+	</g>
+	<g transform="translate(684.5,738.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,699.4091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,660.3182)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st14" d="M691.5,701.2l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0.1l4.7,0.1l4.7,0.1
+			l4.7,0.1l4.7,0.1l0,0l4.7-0.2l4.7-0.5l4.7-0.8l4.7-1l4.7-1.2l4.7-1.6l4.7-1.9l4.7-2.1l4.7-2.1l4.7-2.1l4.7-2.1l4.7-2l4.7-1.8
+			l4.7-1.7l4.7-1.5l4.7-1.4l4.7-1.3l4.7-1.1"/>
+	</g>
+	<g transform="translate(917,660.3182)">
+		<circle class="st15" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,660.3182)">
+		<path class="st15" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,779.4h226v-86H987V779.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="779.4" x2="1213" y2="779.4"/>
+		<line class="st2" x1="987" y1="693.4" x2="1213" y2="693.4"/>
+		<line class="st2" x1="987" y1="779.4" x2="987" y2="777.1"/>
+		<line class="st2" x1="1081.2" y1="779.4" x2="1081.2" y2="777.1"/>
+		<line class="st2" x1="1175.3" y1="779.4" x2="1175.3" y2="777.1"/>
+		<line class="st2" x1="987" y1="693.4" x2="987" y2="695.6"/>
+		<line class="st2" x1="1081.2" y1="693.4" x2="1081.2" y2="695.6"/>
+		<line class="st2" x1="1175.3" y1="693.4" x2="1175.3" y2="695.6"/>
+	</g>
+	<g transform="translate(987,745.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="779.4" x2="987" y2="693.4"/>
+		<line class="st2" x1="1213" y1="779.4" x2="1213" y2="693.4"/>
+		<line class="st2" x1="987" y1="779.4" x2="989.3" y2="779.4"/>
+		<line class="st2" x1="987" y1="750.7" x2="989.3" y2="750.7"/>
+		<line class="st2" x1="987" y1="722.1" x2="989.3" y2="722.1"/>
+		<line class="st2" x1="987" y1="693.4" x2="989.3" y2="693.4"/>
+		<line class="st2" x1="1213" y1="779.4" x2="1210.7" y2="779.4"/>
+		<line class="st2" x1="1213" y1="750.7" x2="1210.7" y2="750.7"/>
+		<line class="st2" x1="1213" y1="722.1" x2="1210.7" y2="722.1"/>
+		<line class="st2" x1="1213" y1="693.4" x2="1210.7" y2="693.4"/>
+	</g>
+	<g transform="translate(980,738.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,709.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,681.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,652.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st14" d="M987,779.4h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l0,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7-0.2
+			l4.7-0.1l4.7,0l4.7,0l4.7,0.1l4.7,0.1l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1"
+			/>
+	</g>
+	<g transform="translate(1213,738.5)">
+		<circle class="st15" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,738.5)">
+		<path class="st15" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,779.4h225.5v-86H1283V779.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="779.4" x2="1508.5" y2="779.4"/>
+		<line class="st2" x1="1283" y1="693.4" x2="1508.5" y2="693.4"/>
+		<line class="st2" x1="1283" y1="779.4" x2="1283" y2="777.1"/>
+		<line class="st2" x1="1377" y1="779.4" x2="1377" y2="777.1"/>
+		<line class="st2" x1="1470.9" y1="779.4" x2="1470.9" y2="777.1"/>
+		<line class="st2" x1="1283" y1="693.4" x2="1283" y2="695.6"/>
+		<line class="st2" x1="1377" y1="693.4" x2="1377" y2="695.6"/>
+		<line class="st2" x1="1470.9" y1="693.4" x2="1470.9" y2="695.6"/>
+	</g>
+	<g transform="translate(1283,745.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,745.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="779.4" x2="1283" y2="693.4"/>
+		<line class="st2" x1="1508.5" y1="779.4" x2="1508.5" y2="693.4"/>
+		<line class="st2" x1="1283" y1="779.4" x2="1285.3" y2="779.4"/>
+		<line class="st2" x1="1283" y1="750.7" x2="1285.3" y2="750.7"/>
+		<line class="st2" x1="1283" y1="722.1" x2="1285.3" y2="722.1"/>
+		<line class="st2" x1="1283" y1="693.4" x2="1285.3" y2="693.4"/>
+		<line class="st2" x1="1508.5" y1="779.4" x2="1506.2" y2="779.4"/>
+		<line class="st2" x1="1508.5" y1="750.7" x2="1506.2" y2="750.7"/>
+		<line class="st2" x1="1508.5" y1="722.1" x2="1506.2" y2="722.1"/>
+		<line class="st2" x1="1508.5" y1="693.4" x2="1506.2" y2="693.4"/>
+	</g>
+	<g transform="translate(1276,738.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,709.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,681.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,652.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st14" d="M1283,779.4l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7-0.2
+			l4.7-0.3l4.7-0.5l4.7-0.8l4.7-1.6l0,0l4.7-2l4.7-1.5l4.7-0.9l4.7-0.3l4.7,0.1l4.7,0.4l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2
+			l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0"/>
+	</g>
+	<g transform="translate(1508.5,738.5)">
+		<circle class="st15" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,738.5)">
+		<path class="st15" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,722.9v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,667.25)">
+		<text transform="matrix(1 0 0 1 0 46.8882)" class="st3 st4">@48h, BMP 2ng/ml 0-30, Noggin 30-48</text>
+	</g>
+	<g>
+		<line class="st14" x1="1520.5" y1="708.1" x2="1550.5" y2="708.1"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,722.9v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,918.9h225.5v-86H100V918.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="918.9" x2="325.5" y2="918.9"/>
+		<line class="st2" x1="100" y1="832.9" x2="325.5" y2="832.9"/>
+		<line class="st2" x1="100" y1="918.9" x2="100" y2="916.6"/>
+		<line class="st2" x1="194" y1="918.9" x2="194" y2="916.6"/>
+		<line class="st2" x1="287.9" y1="918.9" x2="287.9" y2="916.6"/>
+		<line class="st2" x1="100" y1="832.9" x2="100" y2="835.1"/>
+		<line class="st2" x1="194" y1="832.9" x2="194" y2="835.1"/>
+		<line class="st2" x1="287.9" y1="832.9" x2="287.9" y2="835.1"/>
+	</g>
+	<g transform="translate(100,885)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="918.9" x2="100" y2="832.9"/>
+		<line class="st2" x1="325.5" y1="918.9" x2="325.5" y2="832.9"/>
+		<line class="st2" x1="100" y1="918.9" x2="102.3" y2="918.9"/>
+		<line class="st2" x1="100" y1="890.2" x2="102.3" y2="890.2"/>
+		<line class="st2" x1="100" y1="861.6" x2="102.3" y2="861.6"/>
+		<line class="st2" x1="100" y1="832.9" x2="102.3" y2="832.9"/>
+		<line class="st2" x1="325.5" y1="918.9" x2="323.2" y2="918.9"/>
+		<line class="st2" x1="325.5" y1="890.2" x2="323.2" y2="890.2"/>
+		<line class="st2" x1="325.5" y1="861.6" x2="323.2" y2="861.6"/>
+		<line class="st2" x1="325.5" y1="832.9" x2="323.2" y2="832.9"/>
+	</g>
+	<g transform="translate(93,878)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,849.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,820.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,792)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st16" d="M100,918.9l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l4.7,1l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7-3.1l4.7-1.2l4.7-0.2
+			l4.7,0.4l4.7,0.7l4.7,0.8l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7,14.3l4.7,9.1l4.7,5.8l4.7,3.7l4.7,2.4l4.7,1.5
+			l4.7,1l4.7,0.6l4.7,0.4l4.7,0.2l4.7,0.2l4.7,0.1"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,918.9h226v-86h-226V918.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="918.9" x2="621.5" y2="918.9"/>
+		<line class="st2" x1="395.5" y1="832.9" x2="621.5" y2="832.9"/>
+		<line class="st2" x1="395.5" y1="918.9" x2="395.5" y2="916.6"/>
+		<line class="st2" x1="489.7" y1="918.9" x2="489.7" y2="916.6"/>
+		<line class="st2" x1="583.8" y1="918.9" x2="583.8" y2="916.6"/>
+		<line class="st2" x1="395.5" y1="832.9" x2="395.5" y2="835.1"/>
+		<line class="st2" x1="489.7" y1="832.9" x2="489.7" y2="835.1"/>
+		<line class="st2" x1="583.8" y1="832.9" x2="583.8" y2="835.1"/>
+	</g>
+	<g transform="translate(395.5,885)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="918.9" x2="395.5" y2="832.9"/>
+		<line class="st2" x1="621.5" y1="918.9" x2="621.5" y2="832.9"/>
+		<line class="st2" x1="395.5" y1="918.9" x2="397.8" y2="918.9"/>
+		<line class="st2" x1="395.5" y1="890.2" x2="397.8" y2="890.2"/>
+		<line class="st2" x1="395.5" y1="861.6" x2="397.8" y2="861.6"/>
+		<line class="st2" x1="395.5" y1="832.9" x2="397.8" y2="832.9"/>
+		<line class="st2" x1="621.5" y1="918.9" x2="619.2" y2="918.9"/>
+		<line class="st2" x1="621.5" y1="890.2" x2="619.2" y2="890.2"/>
+		<line class="st2" x1="621.5" y1="861.6" x2="619.2" y2="861.6"/>
+		<line class="st2" x1="621.5" y1="832.9" x2="619.2" y2="832.9"/>
+	</g>
+	<g transform="translate(388.5,878)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,849.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,820.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,792)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st16" d="M395.5,918.9l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5l4.7-1.4
+			l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l4.7-0.8l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l0,0l4.7-0.6l4.7-0.8l4.7-1
+			l4.7-1l4.7-1l4.7-1.1l4.7-1.1l4.7-1.1l4.7-1.2l4.7-1.2l4.7-1.3l4.7-1.3l0,0l4.7-1.2l4.7-0.7l4.7-0.5l4.7-0.4l4.7-0.4l4.7-0.4
+			l4.7-0.4l4.7-0.5l4.7-0.5l4.7-0.6l4.7-0.7l4.7-0.7"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,918.9H917v-86H691.5V918.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="918.9" x2="917" y2="918.9"/>
+		<line class="st2" x1="691.5" y1="832.9" x2="917" y2="832.9"/>
+		<line class="st2" x1="691.5" y1="918.9" x2="691.5" y2="916.6"/>
+		<line class="st2" x1="785.5" y1="918.9" x2="785.5" y2="916.6"/>
+		<line class="st2" x1="879.4" y1="918.9" x2="879.4" y2="916.6"/>
+		<line class="st2" x1="691.5" y1="832.9" x2="691.5" y2="835.1"/>
+		<line class="st2" x1="785.5" y1="832.9" x2="785.5" y2="835.1"/>
+		<line class="st2" x1="879.4" y1="832.9" x2="879.4" y2="835.1"/>
+	</g>
+	<g transform="translate(691.5,885)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="918.9" x2="691.5" y2="832.9"/>
+		<line class="st2" x1="917" y1="918.9" x2="917" y2="832.9"/>
+		<line class="st2" x1="691.5" y1="918.9" x2="693.8" y2="918.9"/>
+		<line class="st2" x1="691.5" y1="879.8" x2="693.8" y2="879.8"/>
+		<line class="st2" x1="691.5" y1="840.7" x2="693.8" y2="840.7"/>
+		<line class="st2" x1="917" y1="918.9" x2="914.7" y2="918.9"/>
+		<line class="st2" x1="917" y1="879.8" x2="914.7" y2="879.8"/>
+		<line class="st2" x1="917" y1="840.7" x2="914.7" y2="840.7"/>
+	</g>
+	<g transform="translate(684.5,878)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,838.9091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,799.8182)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st16" d="M691.5,840.7l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0.1l4.7,0.1l4.7,0.1
+			l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.3l4.7,0.5l4.7,0.7l4.7,0.8l4.7,0.9l0,0l4.7,0.8l4.7,0.5l4.7,0.3l4.7,0.1l4.7-0.4l4.7-1.2l4.7-2.1
+			l4.7-2.7l4.7-2.9l4.7-2.9l4.7-2.7l4.7-2.5"/>
+	</g>
+	<g transform="translate(917,799.8182)">
+		<circle class="st17" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,799.8182)">
+		<path class="st17" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,918.9h226v-86H987V918.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="918.9" x2="1213" y2="918.9"/>
+		<line class="st2" x1="987" y1="832.9" x2="1213" y2="832.9"/>
+		<line class="st2" x1="987" y1="918.9" x2="987" y2="916.6"/>
+		<line class="st2" x1="1081.2" y1="918.9" x2="1081.2" y2="916.6"/>
+		<line class="st2" x1="1175.3" y1="918.9" x2="1175.3" y2="916.6"/>
+		<line class="st2" x1="987" y1="832.9" x2="987" y2="835.1"/>
+		<line class="st2" x1="1081.2" y1="832.9" x2="1081.2" y2="835.1"/>
+		<line class="st2" x1="1175.3" y1="832.9" x2="1175.3" y2="835.1"/>
+	</g>
+	<g transform="translate(987,885)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="918.9" x2="987" y2="832.9"/>
+		<line class="st2" x1="1213" y1="918.9" x2="1213" y2="832.9"/>
+		<line class="st2" x1="987" y1="918.9" x2="989.3" y2="918.9"/>
+		<line class="st2" x1="987" y1="890.2" x2="989.3" y2="890.2"/>
+		<line class="st2" x1="987" y1="861.6" x2="989.3" y2="861.6"/>
+		<line class="st2" x1="987" y1="832.9" x2="989.3" y2="832.9"/>
+		<line class="st2" x1="1213" y1="918.9" x2="1210.7" y2="918.9"/>
+		<line class="st2" x1="1213" y1="890.2" x2="1210.7" y2="890.2"/>
+		<line class="st2" x1="1213" y1="861.6" x2="1210.7" y2="861.6"/>
+		<line class="st2" x1="1213" y1="832.9" x2="1210.7" y2="832.9"/>
+	</g>
+	<g transform="translate(980,878)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,849.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,820.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,792)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st16" d="M987,918.9h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l0,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.4l4.7-0.4l0,0l4.7-0.5l4.7-0.5l4.7-0.5l4.7-0.4l4.7-0.4l4.7-0.5l4.7-0.5l4.7-0.5l4.7-0.4l4.7-0.3l4.7-0.3l4.7-0.2"
+			/>
+	</g>
+	<g transform="translate(1213,878)">
+		<circle class="st17" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,878)">
+		<path class="st17" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,918.9h225.5v-86H1283V918.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="918.9" x2="1508.5" y2="918.9"/>
+		<line class="st2" x1="1283" y1="832.9" x2="1508.5" y2="832.9"/>
+		<line class="st2" x1="1283" y1="918.9" x2="1283" y2="916.6"/>
+		<line class="st2" x1="1377" y1="918.9" x2="1377" y2="916.6"/>
+		<line class="st2" x1="1470.9" y1="918.9" x2="1470.9" y2="916.6"/>
+		<line class="st2" x1="1283" y1="832.9" x2="1283" y2="835.1"/>
+		<line class="st2" x1="1377" y1="832.9" x2="1377" y2="835.1"/>
+		<line class="st2" x1="1470.9" y1="832.9" x2="1470.9" y2="835.1"/>
+	</g>
+	<g transform="translate(1283,885)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,885)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="918.9" x2="1283" y2="832.9"/>
+		<line class="st2" x1="1508.5" y1="918.9" x2="1508.5" y2="832.9"/>
+		<line class="st2" x1="1283" y1="918.9" x2="1285.3" y2="918.9"/>
+		<line class="st2" x1="1283" y1="890.2" x2="1285.3" y2="890.2"/>
+		<line class="st2" x1="1283" y1="861.6" x2="1285.3" y2="861.6"/>
+		<line class="st2" x1="1283" y1="832.9" x2="1285.3" y2="832.9"/>
+		<line class="st2" x1="1508.5" y1="918.9" x2="1506.2" y2="918.9"/>
+		<line class="st2" x1="1508.5" y1="890.2" x2="1506.2" y2="890.2"/>
+		<line class="st2" x1="1508.5" y1="861.6" x2="1506.2" y2="861.6"/>
+		<line class="st2" x1="1508.5" y1="832.9" x2="1506.2" y2="832.9"/>
+	</g>
+	<g transform="translate(1276,878)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,849.3333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,820.6667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,792)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st16" d="M1283,918.9l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7-0.2
+			l4.7-0.3l4.7-0.5l4.7-0.8l4.7-1.6l4.7-2.1l4.7-1.7l4.7-1.2l4.7-0.9l4.7-0.8l4.7-0.7l0,0l4.7-0.7l4.7-0.6l4.7-0.4l4.7,0l4.7,0.6
+			l4.7,1.3l4.7,1.5l4.7,1.2l4.7,0.9l4.7,0.6l4.7,0.4l4.7,0.3"/>
+	</g>
+	<g transform="translate(1508.5,878)">
+		<circle class="st17" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,878)">
+		<path class="st17" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,862.4v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,806.75)">
+		<text transform="matrix(1 0 0 1 0 46.8882)" class="st3 st4">@48h, BMP 2ng/ml 0-36, Noggin 36-48</text>
+	</g>
+	<g>
+		<line class="st16" x1="1520.5" y1="847.6" x2="1550.5" y2="847.6"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,862.4v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,1058.4h225.5v-86H100V1058.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="1058.4" x2="325.5" y2="1058.4"/>
+		<line class="st2" x1="100" y1="972.4" x2="325.5" y2="972.4"/>
+		<line class="st2" x1="100" y1="1058.4" x2="100" y2="1056.1"/>
+		<line class="st2" x1="194" y1="1058.4" x2="194" y2="1056.1"/>
+		<line class="st2" x1="287.9" y1="1058.4" x2="287.9" y2="1056.1"/>
+		<line class="st2" x1="100" y1="972.4" x2="100" y2="974.6"/>
+		<line class="st2" x1="194" y1="972.4" x2="194" y2="974.6"/>
+		<line class="st2" x1="287.9" y1="972.4" x2="287.9" y2="974.6"/>
+	</g>
+	<g transform="translate(100,1024.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="1058.4" x2="100" y2="972.4"/>
+		<line class="st2" x1="325.5" y1="1058.4" x2="325.5" y2="972.4"/>
+		<line class="st2" x1="100" y1="1058.4" x2="102.3" y2="1058.4"/>
+		<line class="st2" x1="100" y1="1029.7" x2="102.3" y2="1029.7"/>
+		<line class="st2" x1="100" y1="1001.1" x2="102.3" y2="1001.1"/>
+		<line class="st2" x1="100" y1="972.4" x2="102.3" y2="972.4"/>
+		<line class="st2" x1="325.5" y1="1058.4" x2="323.2" y2="1058.4"/>
+		<line class="st2" x1="325.5" y1="1029.7" x2="323.2" y2="1029.7"/>
+		<line class="st2" x1="325.5" y1="1001.1" x2="323.2" y2="1001.1"/>
+		<line class="st2" x1="325.5" y1="972.4" x2="323.2" y2="972.4"/>
+	</g>
+	<g transform="translate(93,1017.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,988.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,960.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,931.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st18" d="M100,1058.4l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l4.7,1l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7-3.1l4.7-1.2l4.7-0.2
+			l4.7,0.4l4.7,0.7l4.7,0.8l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.7l4.7,0.7l0,0
+			l4.7,12.7l4.7,8.1l4.7,5.2l4.7,3.3l4.7,2.1l4.7,1.3"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,1058.4h226v-86h-226V1058.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="1058.4" x2="621.5" y2="1058.4"/>
+		<line class="st2" x1="395.5" y1="972.4" x2="621.5" y2="972.4"/>
+		<line class="st2" x1="395.5" y1="1058.4" x2="395.5" y2="1056.1"/>
+		<line class="st2" x1="489.7" y1="1058.4" x2="489.7" y2="1056.1"/>
+		<line class="st2" x1="583.8" y1="1058.4" x2="583.8" y2="1056.1"/>
+		<line class="st2" x1="395.5" y1="972.4" x2="395.5" y2="974.6"/>
+		<line class="st2" x1="489.7" y1="972.4" x2="489.7" y2="974.6"/>
+		<line class="st2" x1="583.8" y1="972.4" x2="583.8" y2="974.6"/>
+	</g>
+	<g transform="translate(395.5,1024.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="1058.4" x2="395.5" y2="972.4"/>
+		<line class="st2" x1="621.5" y1="1058.4" x2="621.5" y2="972.4"/>
+		<line class="st2" x1="395.5" y1="1058.4" x2="397.8" y2="1058.4"/>
+		<line class="st2" x1="395.5" y1="1029.7" x2="397.8" y2="1029.7"/>
+		<line class="st2" x1="395.5" y1="1001.1" x2="397.8" y2="1001.1"/>
+		<line class="st2" x1="395.5" y1="972.4" x2="397.8" y2="972.4"/>
+		<line class="st2" x1="621.5" y1="1058.4" x2="619.2" y2="1058.4"/>
+		<line class="st2" x1="621.5" y1="1029.7" x2="619.2" y2="1029.7"/>
+		<line class="st2" x1="621.5" y1="1001.1" x2="619.2" y2="1001.1"/>
+		<line class="st2" x1="621.5" y1="972.4" x2="619.2" y2="972.4"/>
+	</g>
+	<g transform="translate(388.5,1017.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,988.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,960.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,931.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st18" d="M395.5,1058.4l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5
+			l4.7-1.4l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l4.7-0.8l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l0,0l4.7-0.6l4.7-0.8
+			l4.7-1l4.7-1l4.7-1.1l4.7-1.1l4.7-1.1l4.7-1.1l4.7-1.2l4.7-1.2l4.7-1.2l4.7-1.4l4.7-1.4l4.7-1.5l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.7
+			l0,0l4.7-1.5l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-1"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,1058.4H917v-86H691.5V1058.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="1058.4" x2="917" y2="1058.4"/>
+		<line class="st2" x1="691.5" y1="972.4" x2="917" y2="972.4"/>
+		<line class="st2" x1="691.5" y1="1058.4" x2="691.5" y2="1056.1"/>
+		<line class="st2" x1="785.5" y1="1058.4" x2="785.5" y2="1056.1"/>
+		<line class="st2" x1="879.4" y1="1058.4" x2="879.4" y2="1056.1"/>
+		<line class="st2" x1="691.5" y1="972.4" x2="691.5" y2="974.6"/>
+		<line class="st2" x1="785.5" y1="972.4" x2="785.5" y2="974.6"/>
+		<line class="st2" x1="879.4" y1="972.4" x2="879.4" y2="974.6"/>
+	</g>
+	<g transform="translate(691.5,1024.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="1058.4" x2="691.5" y2="972.4"/>
+		<line class="st2" x1="917" y1="1058.4" x2="917" y2="972.4"/>
+		<line class="st2" x1="691.5" y1="1058.4" x2="693.8" y2="1058.4"/>
+		<line class="st2" x1="691.5" y1="1019.3" x2="693.8" y2="1019.3"/>
+		<line class="st2" x1="691.5" y1="980.2" x2="693.8" y2="980.2"/>
+		<line class="st2" x1="917" y1="1058.4" x2="914.7" y2="1058.4"/>
+		<line class="st2" x1="917" y1="1019.3" x2="914.7" y2="1019.3"/>
+		<line class="st2" x1="917" y1="980.2" x2="914.7" y2="980.2"/>
+	</g>
+	<g transform="translate(684.5,1017.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,978.4091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,939.3182)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st18" d="M691.5,980.2l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2l4.7,1
+			l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0.1l4.7,0.1l4.7,0.1
+			l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.3l4.7,0.5l4.7,0.7l4.7,0.8l4.7,0.9l4.7,1l4.7,1.2l4.7,1.4l4.7,1.7l4.7,2.1l4.7,2.7l0,0l4.7,3.1
+			l4.7,3.2l4.7,3l4.7,2.7l4.7,2.3l4.7,1.8"/>
+	</g>
+	<g transform="translate(917,1017.5)">
+		<circle class="st19" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,1017.5)">
+		<path class="st19" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,1058.4h226v-86H987V1058.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="1058.4" x2="1213" y2="1058.4"/>
+		<line class="st2" x1="987" y1="972.4" x2="1213" y2="972.4"/>
+		<line class="st2" x1="987" y1="1058.4" x2="987" y2="1056.1"/>
+		<line class="st2" x1="1081.2" y1="1058.4" x2="1081.2" y2="1056.1"/>
+		<line class="st2" x1="1175.3" y1="1058.4" x2="1175.3" y2="1056.1"/>
+		<line class="st2" x1="987" y1="972.4" x2="987" y2="974.6"/>
+		<line class="st2" x1="1081.2" y1="972.4" x2="1081.2" y2="974.6"/>
+		<line class="st2" x1="1175.3" y1="972.4" x2="1175.3" y2="974.6"/>
+	</g>
+	<g transform="translate(987,1024.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="1058.4" x2="987" y2="972.4"/>
+		<line class="st2" x1="1213" y1="1058.4" x2="1213" y2="972.4"/>
+		<line class="st2" x1="987" y1="1058.4" x2="989.3" y2="1058.4"/>
+		<line class="st2" x1="987" y1="1029.7" x2="989.3" y2="1029.7"/>
+		<line class="st2" x1="987" y1="1001.1" x2="989.3" y2="1001.1"/>
+		<line class="st2" x1="987" y1="972.4" x2="989.3" y2="972.4"/>
+		<line class="st2" x1="1213" y1="1058.4" x2="1210.7" y2="1058.4"/>
+		<line class="st2" x1="1213" y1="1029.7" x2="1210.7" y2="1029.7"/>
+		<line class="st2" x1="1213" y1="1001.1" x2="1210.7" y2="1001.1"/>
+		<line class="st2" x1="1213" y1="972.4" x2="1210.7" y2="972.4"/>
+	</g>
+	<g transform="translate(980,1017.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,988.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,960.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,931.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st18" d="M987,1058.4h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l0,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.4l4.7-0.4l4.7-0.5l4.7-0.6l4.7-0.6l4.7-0.7l4.7-0.7l4.7-0.6l0,0l4.7-0.4l4.7-0.1l4.7,0.1l4.7,0.2l4.7,0.2
+			l4.7-0.1"/>
+	</g>
+	<g transform="translate(1213,1017.5)">
+		<circle class="st19" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,1017.5)">
+		<path class="st19" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,1058.4h225.5v-86H1283V1058.4z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="1058.4" x2="1508.5" y2="1058.4"/>
+		<line class="st2" x1="1283" y1="972.4" x2="1508.5" y2="972.4"/>
+		<line class="st2" x1="1283" y1="1058.4" x2="1283" y2="1056.1"/>
+		<line class="st2" x1="1377" y1="1058.4" x2="1377" y2="1056.1"/>
+		<line class="st2" x1="1470.9" y1="1058.4" x2="1470.9" y2="1056.1"/>
+		<line class="st2" x1="1283" y1="972.4" x2="1283" y2="974.6"/>
+		<line class="st2" x1="1377" y1="972.4" x2="1377" y2="974.6"/>
+		<line class="st2" x1="1470.9" y1="972.4" x2="1470.9" y2="974.6"/>
+	</g>
+	<g transform="translate(1283,1024.5)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,1024.5)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="1058.4" x2="1283" y2="972.4"/>
+		<line class="st2" x1="1508.5" y1="1058.4" x2="1508.5" y2="972.4"/>
+		<line class="st2" x1="1283" y1="1058.4" x2="1285.3" y2="1058.4"/>
+		<line class="st2" x1="1283" y1="1029.7" x2="1285.3" y2="1029.7"/>
+		<line class="st2" x1="1283" y1="1001.1" x2="1285.3" y2="1001.1"/>
+		<line class="st2" x1="1283" y1="972.4" x2="1285.3" y2="972.4"/>
+		<line class="st2" x1="1508.5" y1="1058.4" x2="1506.2" y2="1058.4"/>
+		<line class="st2" x1="1508.5" y1="1029.7" x2="1506.2" y2="1029.7"/>
+		<line class="st2" x1="1508.5" y1="1001.1" x2="1506.2" y2="1001.1"/>
+		<line class="st2" x1="1508.5" y1="972.4" x2="1506.2" y2="972.4"/>
+	</g>
+	<g transform="translate(1276,1017.5)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,988.8333)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,960.1667)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,931.5)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st18" d="M1283,1058.4l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7-0.2
+			l4.7-0.3l4.7-0.5l4.7-0.8l4.7-1.6l4.7-2.1l4.7-1.7l4.7-1.2l4.7-0.9l4.7-0.8l4.7-0.7l4.7-0.7l4.7-0.8l4.7-1l4.7-1.4l4.7-1.9
+			l4.7-2.9l0,0l4.7-4.2l4.7-5.2l4.7-5l4.7-2.8l4.7,1.4l4.7,5.3"/>
+	</g>
+	<g transform="translate(1508.5,960.1667)">
+		<circle class="st19" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,960.1667)">
+		<path class="st19" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1984,1001.9v-29.5h-467.5v29.5H1984z"/>
+	</g>
+	<g transform="translate(1553.5,946.25)">
+		<text transform="matrix(1 0 0 1 0 46.8882)" class="st3 st4">@48h, BMP 2ng/ml 0-42, Noggin 42-48</text>
+	</g>
+	<g>
+		<line class="st18" x1="1520.5" y1="987.1" x2="1550.5" y2="987.1"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,1001.9v-29.5H1984v29.5H1516.5z"/>
+	</g>
+	<g>
+		<path class="st1" d="M100,1197.9h225.5v-86H100V1197.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="1197.9" x2="325.5" y2="1197.9"/>
+		<line class="st2" x1="100" y1="1111.9" x2="325.5" y2="1111.9"/>
+		<line class="st2" x1="100" y1="1197.9" x2="100" y2="1195.6"/>
+		<line class="st2" x1="194" y1="1197.9" x2="194" y2="1195.6"/>
+		<line class="st2" x1="287.9" y1="1197.9" x2="287.9" y2="1195.6"/>
+		<line class="st2" x1="100" y1="1111.9" x2="100" y2="1114.1"/>
+		<line class="st2" x1="194" y1="1111.9" x2="194" y2="1114.1"/>
+		<line class="st2" x1="287.9" y1="1111.9" x2="287.9" y2="1114.1"/>
+	</g>
+	<g transform="translate(100,1164)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(193.9583,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(287.9167,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(212.7501,1190.5)">
+		<text transform="matrix(1 0 0 1 -5 59.8882)" class="st3 st4">t</text>
+	</g>
+	<g>
+		<line class="st2" x1="100" y1="1197.9" x2="100" y2="1111.9"/>
+		<line class="st2" x1="325.5" y1="1197.9" x2="325.5" y2="1111.9"/>
+		<line class="st2" x1="100" y1="1197.9" x2="102.3" y2="1197.9"/>
+		<line class="st2" x1="100" y1="1169.2" x2="102.3" y2="1169.2"/>
+		<line class="st2" x1="100" y1="1140.6" x2="102.3" y2="1140.6"/>
+		<line class="st2" x1="100" y1="1111.9" x2="102.3" y2="1111.9"/>
+		<line class="st2" x1="325.5" y1="1197.9" x2="323.2" y2="1197.9"/>
+		<line class="st2" x1="325.5" y1="1169.2" x2="323.2" y2="1169.2"/>
+		<line class="st2" x1="325.5" y1="1140.6" x2="323.2" y2="1140.6"/>
+		<line class="st2" x1="325.5" y1="1111.9" x2="323.2" y2="1111.9"/>
+	</g>
+	<g transform="translate(93,1157)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(93,1128.3334)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(93,1099.6666)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(93,1071)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st20" d="M100,1197.9l4.7-31.3l4.7-15.8l4.7-7.8l4.7-3.5l4.7-1.2l4.7-0.1l4.7,0.6l4.7,0.9l4.7,1l4.7,1.1l4.7,1.1
+			l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1.1l4.7,1l4.7,1l4.7,1l4.7,1l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l0,0l4.7-3.1l4.7-1.2l4.7-0.2
+			l4.7,0.4l4.7,0.7l4.7,0.8l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.9l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.8l4.7,0.7l4.7,0.7
+			l4.7,0.7l4.7,0.7l4.7,0.7l4.7,0.6l4.7,0.6l4.7,0.6"/>
+	</g>
+	<g>
+		<path class="st1" d="M395.5,1197.9h226v-86h-226V1197.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="1197.9" x2="621.5" y2="1197.9"/>
+		<line class="st2" x1="395.5" y1="1111.9" x2="621.5" y2="1111.9"/>
+		<line class="st2" x1="395.5" y1="1197.9" x2="395.5" y2="1195.6"/>
+		<line class="st2" x1="489.7" y1="1197.9" x2="489.7" y2="1195.6"/>
+		<line class="st2" x1="583.8" y1="1197.9" x2="583.8" y2="1195.6"/>
+		<line class="st2" x1="395.5" y1="1111.9" x2="395.5" y2="1114.1"/>
+		<line class="st2" x1="489.7" y1="1111.9" x2="489.7" y2="1114.1"/>
+		<line class="st2" x1="583.8" y1="1111.9" x2="583.8" y2="1114.1"/>
+	</g>
+	<g transform="translate(395.5,1164)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(489.6667,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(583.8333,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(508.5001,1190.5)">
+		<text transform="matrix(1 0 0 1 -5 59.8882)" class="st3 st4">t</text>
+	</g>
+	<g>
+		<line class="st2" x1="395.5" y1="1197.9" x2="395.5" y2="1111.9"/>
+		<line class="st2" x1="621.5" y1="1197.9" x2="621.5" y2="1111.9"/>
+		<line class="st2" x1="395.5" y1="1197.9" x2="397.8" y2="1197.9"/>
+		<line class="st2" x1="395.5" y1="1169.2" x2="397.8" y2="1169.2"/>
+		<line class="st2" x1="395.5" y1="1140.6" x2="397.8" y2="1140.6"/>
+		<line class="st2" x1="395.5" y1="1111.9" x2="397.8" y2="1111.9"/>
+		<line class="st2" x1="621.5" y1="1197.9" x2="619.2" y2="1197.9"/>
+		<line class="st2" x1="621.5" y1="1169.2" x2="619.2" y2="1169.2"/>
+		<line class="st2" x1="621.5" y1="1140.6" x2="619.2" y2="1140.6"/>
+		<line class="st2" x1="621.5" y1="1111.9" x2="619.2" y2="1111.9"/>
+	</g>
+	<g transform="translate(388.5,1157)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(388.5,1128.3334)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(388.5,1099.6666)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(388.5,1071)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st20" d="M395.5,1197.9l4.7,0l4.7,0l4.7-0.1l4.7-0.4l4.7-0.7l4.7-1.1l4.7-1.3l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.5
+			l4.7-1.4l4.7-1.4l4.7-1.3l4.7-1.2l4.7-1.1l4.7-1l4.7-0.9l4.7-0.8l4.7-0.8l4.7-0.7l4.7-0.6l4.7-0.6l4.7-0.5l0,0l4.7-0.6l4.7-0.8
+			l4.7-1l4.7-1l4.7-1.1l4.7-1.1l4.7-1.1l4.7-1.1l4.7-1.2l4.7-1.2l4.7-1.2l4.7-1.4l4.7-1.4l4.7-1.5l4.7-1.5l4.7-1.6l4.7-1.6l4.7-1.7
+			l4.7-1.6l4.7-1.7l4.7-1.5l4.7-1.6l4.7-1.3l4.7-1.2"/>
+	</g>
+	<g>
+		<path class="st1" d="M691.5,1197.9H917v-86H691.5V1197.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="1197.9" x2="917" y2="1197.9"/>
+		<line class="st2" x1="691.5" y1="1111.9" x2="917" y2="1111.9"/>
+		<line class="st2" x1="691.5" y1="1197.9" x2="691.5" y2="1195.6"/>
+		<line class="st2" x1="785.5" y1="1197.9" x2="785.5" y2="1195.6"/>
+		<line class="st2" x1="879.4" y1="1197.9" x2="879.4" y2="1195.6"/>
+		<line class="st2" x1="691.5" y1="1111.9" x2="691.5" y2="1114.1"/>
+		<line class="st2" x1="785.5" y1="1111.9" x2="785.5" y2="1114.1"/>
+		<line class="st2" x1="879.4" y1="1111.9" x2="879.4" y2="1114.1"/>
+	</g>
+	<g transform="translate(691.5,1164)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(785.4583,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(879.4167,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(804.2501,1190.5)">
+		<text transform="matrix(1 0 0 1 -5 59.8882)" class="st3 st4">t</text>
+	</g>
+	<g>
+		<line class="st2" x1="691.5" y1="1197.9" x2="691.5" y2="1111.9"/>
+		<line class="st2" x1="917" y1="1197.9" x2="917" y2="1111.9"/>
+		<line class="st2" x1="691.5" y1="1197.9" x2="693.8" y2="1197.9"/>
+		<line class="st2" x1="691.5" y1="1158.8" x2="693.8" y2="1158.8"/>
+		<line class="st2" x1="691.5" y1="1119.7" x2="693.8" y2="1119.7"/>
+		<line class="st2" x1="917" y1="1197.9" x2="914.7" y2="1197.9"/>
+		<line class="st2" x1="917" y1="1158.8" x2="914.7" y2="1158.8"/>
+		<line class="st2" x1="917" y1="1119.7" x2="914.7" y2="1119.7"/>
+	</g>
+	<g transform="translate(684.5,1157)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(684.5,1117.9091)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(684.5,1078.8182)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g>
+		<path class="st20" d="M691.5,1119.7l4.7,3.9l4.7,4.7l4.7,4.3l4.7,3.8l4.7,3.3l4.7,2.8l4.7,2.4l4.7,2l4.7,1.7l4.7,1.4l4.7,1.2
+			l4.7,1l4.7,0.8l4.7,0.6l4.7,0.5l4.7,0.4l4.7,0.3l4.7,0.2l4.7,0.2l4.7,0.1l4.7,0.1l4.7,0l4.7,0l4.7,0l0,0l4.7,0l4.7,0.1l4.7,0.1
+			l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.1l4.7,0.3l4.7,0.5l4.7,0.7l4.7,0.8l4.7,0.9l4.7,1l4.7,1.2l4.7,1.4l4.7,1.7l4.7,2.1l4.7,2.7
+			l4.7,3.1l4.7,3.3l4.7,3.1l4.7,2.8l4.7,2.4l4.7,2.1"/>
+	</g>
+	<g transform="translate(917,1157)">
+		<circle class="st21" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(917,1157)">
+		<path class="st21" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M987,1197.9h226v-86H987V1197.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="1197.9" x2="1213" y2="1197.9"/>
+		<line class="st2" x1="987" y1="1111.9" x2="1213" y2="1111.9"/>
+		<line class="st2" x1="987" y1="1197.9" x2="987" y2="1195.6"/>
+		<line class="st2" x1="1081.2" y1="1197.9" x2="1081.2" y2="1195.6"/>
+		<line class="st2" x1="1175.3" y1="1197.9" x2="1175.3" y2="1195.6"/>
+		<line class="st2" x1="987" y1="1111.9" x2="987" y2="1114.1"/>
+		<line class="st2" x1="1081.2" y1="1111.9" x2="1081.2" y2="1114.1"/>
+		<line class="st2" x1="1175.3" y1="1111.9" x2="1175.3" y2="1114.1"/>
+	</g>
+	<g transform="translate(987,1164)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1081.1666,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1175.3334,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(1100.0001,1190.5)">
+		<text transform="matrix(1 0 0 1 -5 59.8882)" class="st3 st4">t</text>
+	</g>
+	<g>
+		<line class="st2" x1="987" y1="1197.9" x2="987" y2="1111.9"/>
+		<line class="st2" x1="1213" y1="1197.9" x2="1213" y2="1111.9"/>
+		<line class="st2" x1="987" y1="1197.9" x2="989.3" y2="1197.9"/>
+		<line class="st2" x1="987" y1="1169.2" x2="989.3" y2="1169.2"/>
+		<line class="st2" x1="987" y1="1140.6" x2="989.3" y2="1140.6"/>
+		<line class="st2" x1="987" y1="1111.9" x2="989.3" y2="1111.9"/>
+		<line class="st2" x1="1213" y1="1197.9" x2="1210.7" y2="1197.9"/>
+		<line class="st2" x1="1213" y1="1169.2" x2="1210.7" y2="1169.2"/>
+		<line class="st2" x1="1213" y1="1140.6" x2="1210.7" y2="1140.6"/>
+		<line class="st2" x1="1213" y1="1111.9" x2="1210.7" y2="1111.9"/>
+	</g>
+	<g transform="translate(980,1157)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(980,1128.3334)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(980,1099.6666)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(980,1071)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st20" d="M987,1197.9h4.7h4.7h4.7h4.7h4.7h4.7h4.7l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0l4.7,0
+			l4.7,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l0,0l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.4l4.7-0.4l4.7-0.5l4.7-0.6l4.7-0.6l4.7-0.7l4.7-0.7l4.7-0.6l4.7-0.4l4.7-0.1l4.7,0.1l4.7,0.3l4.7,0.3
+			l4.7,0.4"/>
+	</g>
+	<g transform="translate(1213,1157)">
+		<circle class="st21" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1213,1157)">
+		<path class="st21" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1283,1197.9h225.5v-86H1283V1197.9z"/>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="1197.9" x2="1508.5" y2="1197.9"/>
+		<line class="st2" x1="1283" y1="1111.9" x2="1508.5" y2="1111.9"/>
+		<line class="st2" x1="1283" y1="1197.9" x2="1283" y2="1195.6"/>
+		<line class="st2" x1="1377" y1="1197.9" x2="1377" y2="1195.6"/>
+		<line class="st2" x1="1470.9" y1="1197.9" x2="1470.9" y2="1195.6"/>
+		<line class="st2" x1="1283" y1="1111.9" x2="1283" y2="1114.1"/>
+		<line class="st2" x1="1377" y1="1111.9" x2="1377" y2="1114.1"/>
+		<line class="st2" x1="1470.9" y1="1111.9" x2="1470.9" y2="1114.1"/>
+	</g>
+	<g transform="translate(1283,1164)">
+		<text transform="matrix(1 0 0 1 -7 59.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1376.9584,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">20</text>
+	</g>
+	<g transform="translate(1470.9166,1164)">
+		<text transform="matrix(1 0 0 1 -14 59.8882)" class="st3 st4">40</text>
+	</g>
+	<g transform="translate(1395.7501,1190.5)">
+		<text transform="matrix(1 0 0 1 -5 59.8882)" class="st3 st4">t</text>
+	</g>
+	<g>
+		<line class="st2" x1="1283" y1="1197.9" x2="1283" y2="1111.9"/>
+		<line class="st2" x1="1508.5" y1="1197.9" x2="1508.5" y2="1111.9"/>
+		<line class="st2" x1="1283" y1="1197.9" x2="1285.3" y2="1197.9"/>
+		<line class="st2" x1="1283" y1="1169.2" x2="1285.3" y2="1169.2"/>
+		<line class="st2" x1="1283" y1="1140.6" x2="1285.3" y2="1140.6"/>
+		<line class="st2" x1="1283" y1="1111.9" x2="1285.3" y2="1111.9"/>
+		<line class="st2" x1="1508.5" y1="1197.9" x2="1506.2" y2="1197.9"/>
+		<line class="st2" x1="1508.5" y1="1169.2" x2="1506.2" y2="1169.2"/>
+		<line class="st2" x1="1508.5" y1="1140.6" x2="1506.2" y2="1140.6"/>
+		<line class="st2" x1="1508.5" y1="1111.9" x2="1506.2" y2="1111.9"/>
+	</g>
+	<g transform="translate(1276,1157)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">0</text>
+	</g>
+	<g transform="translate(1276,1128.3334)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">0.5</text>
+	</g>
+	<g transform="translate(1276,1099.6666)">
+		<text transform="matrix(1 0 0 1 -14 46.8882)" class="st3 st4">1</text>
+	</g>
+	<g transform="translate(1276,1071)">
+		<text transform="matrix(1 0 0 1 -35 46.8882)" class="st3 st4">1.5</text>
+	</g>
+	<g>
+		<path class="st20" d="M1283,1197.9l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.1l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.3l4.7-0.3l4.7-0.3
+			l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.3l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l4.7-0.2l0,0l4.7-0.2l4.7-0.2
+			l4.7-0.3l4.7-0.5l4.7-0.8l4.7-1.6l4.7-2.1l4.7-1.7l4.7-1.2l4.7-0.9l4.7-0.8l4.7-0.7l4.7-0.7l4.7-0.8l4.7-1l4.7-1.4l4.7-1.9
+			l4.7-2.9l4.7-4.2l4.7-5.5l4.7-6l4.7-5.4l4.7-4.3l4.7-3.2"/>
+	</g>
+	<g transform="translate(1508.5,1099.6666)">
+		<circle class="st21" cx="0" cy="40.9" r="5"/>
+	</g>
+	<g transform="translate(1508.5,1099.6666)">
+		<path class="st21" d="M0,36.1c2.6,0,4.8,2.1,4.8,4.8l0,0c0,2.6-2.1,4.8-4.8,4.8s-4.8-2.1-4.8-4.8C-4.8,38.3-2.6,36.1,0,36.1z
+			 M0,35.6c-2.9,0-5.2,2.4-5.2,5.2c0,2.9,2.4,5.2,5.2,5.2s5.2-2.4,5.2-5.2l0,0C5.2,38,2.9,35.6,0,35.6z"/>
+	</g>
+	<g>
+		<path class="st1" d="M1821.5,1141.4v-29.5h-305v29.5H1821.5z"/>
+	</g>
+	<g transform="translate(1553.5,1085.75)">
+		<text transform="matrix(1 0 0 1 0 46.8882)" class="st3 st4">@48h, BMP 2ng/ml 0-48</text>
+	</g>
+	<g>
+		<line class="st20" x1="1520.5" y1="1126.6" x2="1550.5" y2="1126.6"/>
+	</g>
+	<g>
+		<path class="st7" d="M1516.5,1141.4v-29.5h305v29.5H1516.5z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 624.8247 62.0579)" class="st3 st22">BMP pulses of 2ng/ml, followed by Noggin</text>
+</svg>
