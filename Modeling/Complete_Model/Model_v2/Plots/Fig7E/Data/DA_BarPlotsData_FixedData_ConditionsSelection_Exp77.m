@@ -222,7 +222,7 @@ fig.Color = colorbg;
 fig.InvertHardcopy = 'off';
 set(findall(fig,'-property','FontSize'),'FontSize',18)
 set(findall(gcf,'-property','LineWidth'),'LineWidth',2)
-
+titleplottosave
 saveas(fig,[analysisParam.figDir filesep 'DA_BoxPlots-',colorbgplotname,'-AllGenes-DAPINorm-', titleplottosave],'svg')
 saveas(fig,[analysisParam.figDir filesep 'DA_BoxPlots-',colorbgplotname,'-AllGenes-DAPINorm-', titleplottosave],'fig')
 
