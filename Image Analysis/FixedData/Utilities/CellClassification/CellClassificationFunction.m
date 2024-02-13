@@ -82,7 +82,7 @@ NewNormalizedData = {};
 for SubExpNum = 1:CellClassifParam.NumofSubexperiments
     for conditionnumber=1:analysisParam(SubExpNum).nCon
     
-%     NormDataAux = (AllDataMatrixDAPInorm{conditionnumber}(:,analysisParam.startGeneData+(1:analysisParam.nChannels))-meanNegativePop)./NormValues;
+    % NormDataAux = (AllDataMatrixDAPInorm{conditionnumber}(:,analysisParam.startGeneData+(1:analysisParam.nChannels))-meanNegativePop)./NormValues;
         NormDataAux = (singleCells{SubExpNum}{conditionnumber}(:,CellClassifParam.startGeneData+(1:CellClassifParam.nChannels)))./NormValues;
 %     NormDataAux(NormDataAux<0) = 0; %Set to 0 the values that end up negative after the normalization (those such that are smaller than the mean of the negative population)
     NewNormalizedData{SubExpNum}{conditionnumber} = [ singleCells{SubExpNum}{conditionnumber}(:,1:CellClassifParam.startGeneData),NormDataAux,singleCells{SubExpNum}{conditionnumber}(:,end)];
